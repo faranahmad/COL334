@@ -1,0 +1,1562 @@
+1439836933.87
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:12 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%), Microsoft Windows 3.1 with Trumpet WinSock (87%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 198.48 seconds
+
+1439837138.27
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:15 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0015s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00096s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 203.06 seconds
+
+1439837351.7
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:19 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0013s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0030s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%), Microsoft Windows 3.1 with Trumpet WinSock (87%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 204.35 seconds
+
+1439837563.22
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:22 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00071s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 194.33 seconds
+
+1439837762.12
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:26 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0012s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00097s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 208.52 seconds
+
+1439837981.01
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:29 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0016s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00068s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (96%), Bay Networks embedded (90%), Minolta embedded (89%), MOXA embedded (89%), Vegastream embedded (89%), Yamaha embedded (88%), Crestron embedded (88%), Radware embedded (87%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (90%), Minolta Di550 laser printer (89%), MOXA NPort Express 2.5 (89%), Vegastream Vega 400 VoIP Gateway (89%), Yamaha RX-V2067 or RX-V3900 audio receiver (88%), Crestron CNMSX-AV control and automation system (88%), Radware LinkProof load balancer (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 185.74 seconds
+
+1439838179.32
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:33 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0015s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0011s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%), Microsoft Windows 3.1 with Trumpet WinSock (87%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 206.13 seconds
+
+1439838390.92
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:36 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0013s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0097s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), Minolta Di550 laser printer (92%), Vegastream Vega 400 VoIP Gateway (91%), MOXA NPort Express 2.5 (91%), Crestron CNMSX-AV control and automation system (91%), Radware LinkProof load balancer (90%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (89%), VxWorks (89%), Dell 1815dn printer (89%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 302.27 seconds
+
+1439838709.17
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:41 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0025s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00063s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 188.71 seconds
+
+1439838903.46
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:45 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00082s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 181.75 seconds
+
+1439839089.45
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:48 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0016s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00072s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 190.27 seconds
+
+1439839289.06
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:51 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0012s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 200.98 seconds
+
+1439839496.24
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:55 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0016s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00084s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 189.37 seconds
+
+1439839696.06
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 00:58 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 982 closed ports
+PORT      STATE    SERVICE
+22/tcp    open     ssh
+23/tcp    open     telnet
+80/tcp    open     http
+1107/tcp  filtered isoipsigport-2
+1783/tcp  filtered unknown
+2045/tcp  filtered cdfunc
+2601/tcp  filtered zebra
+2607/tcp  filtered connection
+2710/tcp  filtered sso-service
+3826/tcp  filtered wormux
+3905/tcp  filtered mupdate
+3986/tcp  filtered mapper-ws_ethd
+4321/tcp  filtered rwhois
+5054/tcp  filtered rlm-admin
+5101/tcp  filtered admdog
+9900/tcp  filtered iua
+10629/tcp filtered unknown
+49156/tcp filtered unknown
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00097s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linksys Linux 2.4.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linksys:linux_kernel:2.4 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Sony Ericsson U8i Vivaz mobile phone
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 226.47 seconds
+
+1439839932.2
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 01:05 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 208.79 seconds
+
+1439840358.36
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 01:12 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 209.60 seconds
+
+1439840775.72
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 01:19 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439841189.7
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 01:26 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439841602.54
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 01:33 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.57 seconds
+
+1439842015.4
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 01:40 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439842428.24
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 01:47 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439842841.09
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 01:54 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439843253.94
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 02:01 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439843666.78
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 02:07 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439844079.64
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 02:14 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.57 seconds
+
+1439844492.49
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 02:21 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439844905.35
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 02:28 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439845318.2
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 02:35 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439845731.05
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 02:42 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439846143.89
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 02:49 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439846556.73
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 02:56 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439846969.58
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 03:02 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439847382.41
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 03:09 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439847795.27
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 03:16 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439848208.12
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 03:23 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439848620.98
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 03:30 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439849033.83
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 03:37 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439849446.67
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 03:44 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439849859.52
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 03:51 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439850272.37
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 03:57 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439850685.22
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 04:04 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439851098.06
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 04:11 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.57 seconds
+
+1439851510.92
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 04:18 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439851923.78
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 04:25 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439852336.63
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 04:32 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439852749.47
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 04:39 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439853162.32
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 04:46 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439853575.17
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 04:53 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439853988.02
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 04:59 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439854400.87
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 05:06 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439854813.72
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 05:13 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439855226.56
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 05:20 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439855639.41
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 05:27 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439856052.26
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 05:34 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439856465.12
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 05:41 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.55 seconds
+
+1439856877.95
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 05:48 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439857290.81
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 05:54 IST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 206.56 seconds
+
+1439857703.65
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:01 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00090s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 177.53 seconds
+
+1439858087.47
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:04 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0016s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0011s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 213.38 seconds
+
+1439858311.23
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:08 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 209.69 seconds
+
+1439858531.29
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:12 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00090s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 183.13 seconds
+
+1439858724.89
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:15 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0040s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 199.16 seconds
+
+1439858934.63
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:19 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0012s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00091s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 198.41 seconds
+
+1439859143.44
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:22 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0011s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 205.67 seconds
+
+1439859359.56
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:26 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0014s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 207.31 seconds
+
+1439859577.57
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:29 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00085s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 191.33 seconds
+
+1439859774.48
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:33 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0021s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 213.23 seconds
+
+1439859998.47
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:36 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 200.27 seconds
+
+1439860208.21
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:40 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0013s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00089s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (96%), Bay Networks embedded (90%), Minolta embedded (89%), MOXA embedded (89%), Vegastream embedded (89%), Yamaha embedded (88%), Crestron embedded (88%), Radware embedded (87%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (90%), Minolta Di550 laser printer (89%), MOXA NPort Express 2.5 (89%), Vegastream Vega 400 VoIP Gateway (89%), Yamaha RX-V2067 or RX-V3900 audio receiver (88%), Crestron CNMSX-AV control and automation system (88%), Radware LinkProof load balancer (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 136.52 seconds
+
+1439860354.76
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:42 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0013s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0018s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Nortel BNT Ethernet switch module (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 205.10 seconds
+
+1439860569.58
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:46 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0016s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0011s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 211.95 seconds
+
+1439860791.6
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:50 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0013s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 206.32 seconds
+
+1439861008.33
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:53 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0014s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 195.10 seconds
+
+1439861213.45
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 06:57 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0016s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Nortel BNT Ethernet switch module (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 198.67 seconds
+
+1439861422.15
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:00 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0012s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 202.77 seconds
+
+1439861635.32
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:04 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0014s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00085s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 188.68 seconds
+
+1439861834.02
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:07 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0019s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00088s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 187.06 seconds
+
+1439862031.54
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:10 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: webcam|switch|printer|specialized|VoIP adapter|media device|load balancer
+Running (JUST GUESSING): Panasonic embedded (97%), Bay Networks embedded (91%), Minolta embedded (91%), MOXA embedded (90%), Vegastream embedded (90%), Yamaha embedded (89%), Crestron embedded (89%), Radware embedded (88%)
+OS CPE: cpe:/h:panasonic:bl-c210 cpe:/h:baynetworks:baystack_450 cpe:/h:vegastream:vega_400 cpe:/h:yamaha:rx-v2067 cpe:/h:yamaha:rx-v3900
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (97%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 202.87 seconds
+
+1439862244.87
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:14 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00086s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 186.89 seconds
+
+1439862442.14
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:17 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0012s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00095s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 204.55 seconds
+
+1439862656.15
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:21 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0019s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00093s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (91%), Minolta Di550 laser printer (91%), MOXA NPort Express 2.5 (90%), Vegastream Vega 400 VoIP Gateway (90%), Yamaha RX-V2067 or RX-V3900 audio receiver (89%), Crestron CNMSX-AV control and automation system (89%), Radware LinkProof load balancer (88%), Microsoft Windows 3.1 with Trumpet WinSock (87%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 190.61 seconds
+
+1439862856.82
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:24 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0012s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0019s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 207.25 seconds
+
+1439863074.1
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:28 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0014s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0012s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 208.90 seconds
+
+1439863293.03
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:31 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0012s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00087s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 139.70 seconds
+
+1439863443.1
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:34 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0012s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0010s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (95%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Radware LinkProof load balancer (89%), Crestron CNMSX-AV control and automation system (88%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 207.33 seconds
+
+1439863660.46
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-18 07:37 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0018s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Device type: switch
+Running: Cisco IOS 12.X
+OS CPE: cpe:/h:cisco:catalyst_1900 cpe:/h:cisco:catalyst_2820 cpe:/h:cisco:catalyst_2960 cpe:/h:cisco:catalyst_3560 cpe:/h:cisco:catalyst_4500 cpe:/h:cisco:catalyst_6513 cpe:/o:cisco:ios:12.2
+OS details: Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2)
+
+Nmap scan report for 10.208.26.173
+Host is up (0.00091s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (96%), Minolta Di550 laser printer (92%), Bay Networks BayStack 450 switch (software version 4.2.0.16) (92%), MOXA NPort Express 2.5 (91%), Vegastream Vega 400 VoIP Gateway (91%), Yamaha RX-V2067 or RX-V3900 audio receiver (90%), Crestron CNMSX-AV control and automation system (90%), Radware LinkProof load balancer (89%), Microsoft Windows 3.1 with Trumpet WinSock (88%), Tandberg video conferencing system (1000, 2500, or 990 MXP) (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (2 hosts up) scanned in 209.12 seconds
+
