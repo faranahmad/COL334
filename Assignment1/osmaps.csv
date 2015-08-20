@@ -1560,3 +1560,2837 @@ No exact OS matches for host (test conditions non-ideal).
 OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
 Nmap done: 256 IP addresses (2 hosts up) scanned in 209.12 seconds
 
+1439997940.7
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 20:55 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0053s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0042s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0063s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0039s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Microsoft Windows Vista|2008|7
+OS CPE: cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_server_2008::sp1 cpe:/o:microsoft:windows_7
+OS details: Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 223.81 seconds
+
+1439998173.52
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 20:59 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0062s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0059s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0047s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0035s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|Phone|Vista|7
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_7
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 229.31 seconds
+
+1439998408.77
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:03 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0069s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0052s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0046s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0038s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|7|Phone|Vista
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows 7 Professional, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 225.69 seconds
+
+1439998640.58
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:07 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.014s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0088s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0063s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0047s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Microsoft Windows Vista|2008|7
+OS CPE: cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_server_2008::sp1 cpe:/o:microsoft:windows_7
+OS details: Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 219.76 seconds
+
+1439998866.24
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:11 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0073s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0056s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Panasonic BL-C210 Network Camera (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Crestron CNMSX-AV control and automation system (86%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), HP iLO 2 remote management interface version 2.0 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0047s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0046s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|7|Phone|Vista
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows 7 Professional, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 217.62 seconds
+
+1439999090.35
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:14 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0052s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0054s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0072s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|Phone|Vista|7
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_7
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 226.57 seconds
+
+1439999322.85
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:18 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.010s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.015s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (90%), Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), SCO OpenServer 5.0.7 (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.012s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.013s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Microsoft Windows 7|Vista|2008
+OS CPE: cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_server_2008::sp1
+OS details: Microsoft Windows 7 Professional, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 220.49 seconds
+
+1439999551.09
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:22 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.014s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0068s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.021s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0034s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|7|Phone|Vista
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows 7 Professional, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 219.77 seconds
+
+1439999776.91
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:26 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.011s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco Catalyst 3550 switch (IOS 12.2) (92%), Cisco 1812, 3640, or 3700 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.014s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (90%), Panasonic BL-C210 Network Camera (90%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (89%), Crestron CNMSX-AV control and automation system (89%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (88%), Ricoh Aficio BP20N printer (87%), IBM AIX 4.3 (87%), HP iLO 2 remote management interface version 2.0 (87%), SCO OpenServer 5.0.7 (86%), 3Com SuperStack II Switch 3900-36 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0037s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.013s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|Phone|Vista|7
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_7
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 291.58 seconds
+
+1440000074.49
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:31 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0041s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0056s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0038s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0043s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Microsoft Windows 7|Vista|2008
+OS CPE: cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_server_2008::sp1
+OS details: Microsoft Windows 7 Professional, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 220.69 seconds
+
+1440000302.25
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:35 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0057s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0044s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0055s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0051s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Microsoft Windows 7|Vista|2008
+OS CPE: cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_server_2008::sp1
+OS details: Microsoft Windows 7 Professional, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 223.19 seconds
+
+1440000533.57
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:38 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0052s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (97%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco Aironet 1250 WAP (IOS 12.4) (92%), Cisco 877 router (IOS 12.4) (92%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (92%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (91%), Cisco 7600 router (IOS 12.2) (91%), Cisco 2950, 2960, 3550, 3560, 3750, or 4500 switch (IOS 12.1 - 15.0); or Adaptive Security Appliance firewall (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0091s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (90%), Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), SCO OpenServer 5.0.7 (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0040s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0082s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Microsoft Windows 7|Vista|2008
+OS CPE: cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_server_2008::sp1
+OS details: Microsoft Windows 7 Professional, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 230.85 seconds
+
+1440000770.33
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:42 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0077s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0044s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (87%), Panasonic BL-C210 Network Camera (87%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0050s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0027s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|Phone|Vista|7
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_7
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 220.80 seconds
+
+1440000996.0
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:46 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0079s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (97%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco Catalyst 3550 switch (IOS 12.2) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0075s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Crestron CNMSX-AV control and automation system (86%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), Panasonic BL-C210 Network Camera (86%), IBM AIX 4.3 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0044s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0047s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|7|Phone|Vista
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows 7 Professional, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 285.71 seconds
+
+1440001289.51
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:51 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0042s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco Catalyst 3550 switch (IOS 12.2) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0049s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Panasonic BL-C210 Network Camera (88%), Nortel BNT Ethernet switch module (88%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), Crestron CNMSX-AV control and automation system (87%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0049s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0050s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|7|Phone|Vista
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows 7 Professional, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 314.05 seconds
+
+1440001609.28
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 21:56 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0098s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0058s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.015s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0027s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|Phone|Vista|7
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1 cpe:/o:microsoft:windows_7
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 220.71 seconds
+
+1440001836.65
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 22:00 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.061s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (95%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (94%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (93%), Cisco 831 switch or 1760 router (IOS 12.4) (92%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.038s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (87%), Panasonic BL-C210 Network Camera (87%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.060s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0034s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|7|Phone|Vista
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows 7 Professional, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 216.89 seconds
+
+1440002060.02
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 22:04 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0069s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco Catalyst 3550 switch (IOS 12.2) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0054s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0094s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0087s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose
+Running: Microsoft Windows 2008|7|Vista
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows 7 Professional, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 277.60 seconds
+
+1440002348.6
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 22:09 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0050s latency).
+Not shown: 984 closed ports
+PORT      STATE    SERVICE
+22/tcp    open     ssh
+23/tcp    open     telnet
+80/tcp    open     http
+212/tcp   filtered anet
+1009/tcp  filtered unknown
+1111/tcp  filtered lmsocialserver
+2702/tcp  filtered sms-xfer
+2968/tcp  filtered enpp
+3369/tcp  filtered satvid-datalnk
+4998/tcp  filtered maybe-veritas
+5002/tcp  filtered rfe
+5050/tcp  filtered mmcc
+5357/tcp  filtered wsdapi
+8000/tcp  filtered http-alt
+10626/tcp filtered unknown
+50003/tcp filtered unknown
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 877 router (IOS 12.4) (92%), Cisco Catalyst 3550 switch (IOS 12.2) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0087s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0055s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.0038s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|phone
+Running: Microsoft Windows 2008|7|Phone|Vista
+OS CPE: cpe:/o:microsoft:windows_server_2008::beta3 cpe:/o:microsoft:windows_7::-:professional cpe:/o:microsoft:windows cpe:/o:microsoft:windows_vista::- cpe:/o:microsoft:windows_vista::sp1
+OS details: Microsoft Windows Server 2008 Beta 3, Microsoft Windows 7 Professional, Microsoft Windows Phone 7.5, Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7, Microsoft Windows Vista SP2, Windows 7 SP1, or Windows Server 2008
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 287.19 seconds
+
+1440002644.72
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 22:14 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0071s latency).
+Not shown: 985 closed ports
+PORT      STATE    SERVICE
+7/tcp     filtered echo
+22/tcp    open     ssh
+23/tcp    open     telnet
+80/tcp    open     http
+1166/tcp  filtered qsm-remote
+1521/tcp  filtered oracle
+1700/tcp  filtered mps-raft
+2020/tcp  filtered xinupageserver
+3322/tcp  filtered active-net
+5810/tcp  filtered unknown
+8002/tcp  filtered teradataordbms
+9050/tcp  filtered tor-socks
+9878/tcp  filtered unknown
+10001/tcp filtered scp-config
+10025/tcp filtered unknown
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0046s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (90%), Panasonic BL-C210 Network Camera (90%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (89%), Crestron CNMSX-AV control and automation system (89%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (88%), Ricoh Aficio BP20N printer (87%), IBM AIX 4.3 (87%), Brother HL-2700CN printer (87%), HP iLO 2 remote management interface version 2.0 (87%), SCO OpenServer 5.0.7 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0067s latency).
+Not shown: 970 closed ports
+PORT      STATE    SERVICE
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+554/tcp   open     rtsp
+616/tcp   filtered sco-sysmgr
+1036/tcp  filtered nsstp
+1123/tcp  filtered murray
+1310/tcp  filtered husky
+2103/tcp  filtered zephyr-clt
+2126/tcp  filtered pktcable-cops
+2170/tcp  filtered eyetv
+2869/tcp  open     icslap
+2968/tcp  filtered enpp
+3390/tcp  filtered dsc
+3546/tcp  filtered unknown
+3869/tcp  filtered ovsam-mgmt
+5061/tcp  filtered sip-tls
+5298/tcp  filtered presence
+5357/tcp  open     wsdapi
+5414/tcp  filtered statusd
+5718/tcp  filtered dpm
+6001/tcp  filtered X11:1
+10243/tcp open     unknown
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49157/tcp open     unknown
+49158/tcp open     unknown
+49160/tcp open     unknown
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows Vista|7|2008 (99%)
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008 cpe:/o:microsoft:windows_8
+Aggressive OS guesses: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008 (99%), Microsoft Windows Vista Enterprise (96%), Microsoft Windows 7 SP1 or Windows Server 2008 SP2 (96%), Microsoft Windows Vista SP1 (94%), Microsoft Windows 7 Ultimate (93%), Microsoft Windows Server 2008 (93%), Microsoft Windows Windows 7 SP1 (93%), Microsoft Windows Vista (93%), Microsoft Windows 7 SP1 (92%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (92%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 6 hops
+
+Nmap scan report for 10.208.26.199
+Host is up (0.018s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized|WAP|phone
+Running: iPXE 1.X, Linksys Linux 2.4.X, Sony Ericsson embedded
+OS CPE: cpe:/o:ipxe:ipxe:1.0.0%2b cpe:/o:linksys:linux_kernel:2.4 cpe:/h:sonyericsson:u8i_vivaz
+OS details: iPXE 1.0.0+, Tomato 1.28 (Linux 2.4.20), Sony Ericsson U8i Vivaz mobile phone
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (4 hosts up) scanned in 2016.04 seconds
+
+1440004668.0
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 22:47 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0038s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0049s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0041s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 204.53 seconds
+
+1440004880.25
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 22:51 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0076s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0069s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Panasonic BL-C210 Network Camera (88%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), Crestron CNMSX-AV control and automation system (87%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0051s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 206.54 seconds
+
+1440005092.21
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 22:55 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0094s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (95%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (94%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (93%), Cisco 831 switch or 1760 router (IOS 12.4) (92%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0057s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (90%), Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), SCO OpenServer 5.0.7 (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0045s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 205.85 seconds
+
+1440005306.47
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 22:58 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0056s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (95%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (94%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (93%), Cisco 831 switch or 1760 router (IOS 12.4) (92%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0055s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (90%), Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), SCO OpenServer 5.0.7 (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0083s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 212.49 seconds
+
+1440005526.4
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:02 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0062s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0037s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (90%), Panasonic BL-C210 Network Camera (90%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (89%), Crestron CNMSX-AV control and automation system (89%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (88%), Ricoh Aficio BP20N printer (87%), IBM AIX 4.3 (87%), Brother HL-2700CN printer (87%), HP iLO 2 remote management interface version 2.0 (87%), SCO OpenServer 5.0.7 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0037s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 208.94 seconds
+
+1440005742.7
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:05 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0040s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0035s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0029s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 212.71 seconds
+
+1440005959.56
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:09 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0059s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0049s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (90%), Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), SCO OpenServer 5.0.7 (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0068s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 182.54 seconds
+
+1440006148.84
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:12 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.010s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco 827H ADSL router (IOS 12.2) (92%), Cisco 877 router (IOS 12.4) (92%), Cisco Catalyst 3550 switch (IOS 12.2) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.012s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Panasonic BL-C210 Network Camera (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Crestron CNMSX-AV control and automation system (86%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.012s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows Vista|7|2008 (99%)
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008 cpe:/o:microsoft:windows_8
+Aggressive OS guesses: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008 (99%), Microsoft Windows Vista Enterprise (97%), Microsoft Windows 7 SP1 or Windows Server 2008 SP2 (96%), Microsoft Windows 7 Ultimate (95%), Microsoft Windows Vista SP1 (95%), Microsoft Windows Vista (94%), Microsoft Windows Windows 7 SP1 (93%), Microsoft Windows Server 2008 (92%), Microsoft Windows 7 SP1 (92%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (92%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 219.68 seconds
+
+1440006375.29
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:16 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0067s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0038s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0037s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 211.37 seconds
+
+1440006590.73
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:19 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0061s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0065s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0071s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 211.20 seconds
+
+1440006808.82
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:23 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0053s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.011s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (90%), Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), SCO OpenServer 5.0.7 (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0049s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 220.12 seconds
+
+1440007036.35
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:27 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0065s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0043s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0040s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 230.03 seconds
+
+1440007274.97
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:31 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0062s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0042s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (90%), Panasonic BL-C210 Network Camera (90%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (89%), Crestron CNMSX-AV control and automation system (89%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (88%), Ricoh Aficio BP20N printer (87%), IBM AIX 4.3 (87%), Brother HL-2700CN printer (87%), HP iLO 2 remote management interface version 2.0 (87%), SCO OpenServer 5.0.7 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0054s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows Vista|7|2008 (99%)
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008 cpe:/o:microsoft:windows_8
+Aggressive OS guesses: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008 (99%), Microsoft Windows 7 SP1 or Windows Server 2008 SP2 (96%), Microsoft Windows Vista Enterprise (95%), Microsoft Windows 7 Ultimate (94%), Microsoft Windows Windows 7 SP1 (94%), Microsoft Windows Vista SP1 (94%), Microsoft Windows Server 2008 (93%), Microsoft Windows 7 SP1 (93%), Microsoft Windows Vista (93%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (92%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 215.07 seconds
+
+1440007498.69
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:35 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0043s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco 831 switch or 1760 router (IOS 12.4) (91%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.011s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (90%), Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), SCO OpenServer 5.0.7 (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0046s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 208.41 seconds
+
+1440007715.42
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:38 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0056s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.013s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (90%), Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), SCO OpenServer 5.0.7 (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0061s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 212.98 seconds
+
+1440007937.28
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:42 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0064s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0041s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Crestron CNMSX-AV control and automation system (86%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), Panasonic BL-C210 Network Camera (86%), IBM AIX 4.3 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0071s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 209.20 seconds
+
+1440008154.96
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:46 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0051s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (97%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0032s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (87%), Panasonic BL-C210 Network Camera (87%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0043s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 210.29 seconds
+
+1440008373.94
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:49 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0089s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0041s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0037s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 218.53 seconds
+
+1440008602.46
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:53 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0049s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0064s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0044s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 220.11 seconds
+
+1440008830.87
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-19 23:57 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0050s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0050s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0097s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows Vista|7|2008 (99%)
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008 cpe:/o:microsoft:windows_8
+Aggressive OS guesses: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008 (99%), Microsoft Windows Vista Enterprise (96%), Microsoft Windows 7 SP1 or Windows Server 2008 SP2 (96%), Microsoft Windows 7 Ultimate (94%), Microsoft Windows Vista SP1 (94%), Microsoft Windows Server 2008 (93%), Microsoft Windows Windows 7 SP1 (93%), Microsoft Windows Vista (93%), Microsoft Windows 7 SP1 (92%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (92%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 227.09 seconds
+
+1440009065.14
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-20 00:01 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0053s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0065s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (87%), Panasonic BL-C210 Network Camera (87%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0045s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 214.16 seconds
+
+1440009287.9
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-20 00:04 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0049s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0068s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (87%), Panasonic BL-C210 Network Camera (87%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.019s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 205.39 seconds
+
+1440009501.87
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-20 00:08 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0054s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0044s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (87%), Panasonic BL-C210 Network Camera (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Crestron CNMSX-AV control and automation system (85%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.010s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running (JUST GUESSING): Microsoft Windows Vista|7|2008 (99%)
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008 cpe:/o:microsoft:windows_8
+Aggressive OS guesses: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008 (99%), Microsoft Windows Vista Enterprise (96%), Microsoft Windows 7 SP1 or Windows Server 2008 SP2 (96%), Microsoft Windows Vista SP1 (94%), Microsoft Windows 7 Ultimate (93%), Microsoft Windows Server 2008 (93%), Microsoft Windows Windows 7 SP1 (93%), Microsoft Windows Vista (93%), Microsoft Windows 7 SP1 (92%), Microsoft Windows Vista SP0 or SP1, Windows Server 2008 SP1, or Windows 7 (92%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 215.65 seconds
+
+1440009725.69
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-20 00:12 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0059s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Aironet 1250 WAP (IOS 12.4) (92%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco Catalyst 3550 switch (IOS 12.2) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0064s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (88%), Cisco 2948G switch (CatOS 6.3) (87%), Microsoft Xbox game console (modified, running XboxMediaCenter) (87%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (87%), HP iLO 2 remote management interface version 2.0 (87%), Crestron CNMSX-AV control and automation system (86%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (86%), Microsoft Windows 3.1 with Trumpet WinSock (85%), Ricoh Aficio BP20N printer (85%), SCO OpenServer 5.0.7 (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0091s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 230.58 seconds
+
+1440009963.74
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-20 00:16 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0068s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.013s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (90%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (89%), Crestron CNMSX-AV control and automation system (89%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (88%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Panasonic BL-C210 Network Camera (87%), Microsoft Windows 3.1 with Trumpet WinSock (87%), Ricoh Aficio BP20N printer (87%), IBM AIX 4.3 (87%), Brother HL-2700CN printer (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0057s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 252.24 seconds
+
+1440010224.97
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-20 00:20 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0051s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0042s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Panasonic BL-C210 Network Camera (90%), Cisco 2948G switch (CatOS 6.3) (89%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), Crestron CNMSX-AV control and automation system (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), SCO OpenServer 5.0.7 (86%), Ricoh Aficio BP20N printer (86%), IBM AIX 4.3 (86%), Brother HL-2700CN printer (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0046s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 210.87 seconds
+
+1440010444.43
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-20 00:24 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0054s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco Aironet 1250 WAP (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco Catalyst 3550 switch (IOS 12.2) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.011s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (89%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (88%), HP iLO 2 remote management interface version 2.0 (88%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (87%), Crestron CNMSX-AV control and automation system (86%), Microsoft Windows 3.1 with Trumpet WinSock (86%), Ricoh Aficio BP20N printer (86%), Panasonic BL-C210 Network Camera (86%), IBM AIX 4.3 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0043s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 223.15 seconds
+
+1440010680.19
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-20 00:28 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0046s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (94%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (93%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (92%), Cisco 831 switch or 1760 router (IOS 12.4) (91%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0055s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (90%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (89%), Crestron CNMSX-AV control and automation system (89%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (88%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Panasonic BL-C210 Network Camera (87%), Microsoft Windows 3.1 with Trumpet WinSock (87%), Ricoh Aficio BP20N printer (87%), IBM AIX 4.3 (87%), Brother HL-2700CN printer (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0061s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 214.99 seconds
+
+1440010902.6
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2015-08-20 00:31 IST
+Nmap scan report for 10.208.26.1
+Host is up (0.0077s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+23/tcp open  telnet
+80/tcp open  http
+Aggressive OS guesses: Cisco 870 router or 2960 switch (IOS 12.2 - 12.4) (98%), Cisco Aironet 1250 WAP (IOS 12.4) (95%), Cisco 836, 890, 1751, 1841, 2800, or 2900 router (IOS 12.4 - 15.1) (95%), Cisco 1841 router (IOS 12.4) (94%), Cisco 827H ADSL router (IOS 12.2) (94%), Cisco 877 router (IOS 12.4) (93%), Cisco Catalyst 1900, 2820, 2960, 3560, 3750, 4500, or 6513 switch (IOS 12.2) (93%), Cisco Catalyst 3550 switch (IOS 12.2) (93%), Cisco Aironet AIR-AP1141N WAP (IOS 12.4) (93%), Cisco 831 switch or 1760 router (IOS 12.4) (92%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.173
+Host is up (0.0042s latency).
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+25/tcp   open  smtp
+80/tcp   open  http
+515/tcp  open  printer
+9100/tcp open  jetdirect
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 2948G switch (CatOS 6.3) (90%), Extreme Networks Summit48si switch (ExtremeWare 7.4 - 7.8) (89%), TiVo series 1 (Linux 2.1.24-TiVo-2.5) (88%), Microsoft Xbox game console (modified, running XboxMediaCenter) (88%), Crestron CNMSX-AV control and automation system (87%), Microsoft Windows 3.1 with Trumpet WinSock (87%), Ricoh Aficio BP20N printer (87%), IBM AIX 4.3 (87%), HP iLO 2 remote management interface version 2.0 (87%), Panasonic BL-C210 Network Camera (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+Nmap scan report for 10.208.26.183
+Host is up (0.0059s latency).
+Not shown: 986 closed ports
+PORT      STATE SERVICE
+135/tcp   open  msrpc
+139/tcp   open  netbios-ssn
+445/tcp   open  microsoft-ds
+554/tcp   open  rtsp
+2869/tcp  open  icslap
+5357/tcp  open  wsdapi
+10243/tcp open  unknown
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49155/tcp open  unknown
+49157/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+Device type: general purpose
+Running: Microsoft Windows Vista|7|2008
+OS CPE: cpe:/o:microsoft:windows_vista::sp1:home_premium cpe:/o:microsoft:windows_7 cpe:/o:microsoft:windows_server_2008
+OS details: Microsoft Windows Vista Home Premium SP1, Windows 7, or Windows Server 2008
+Network Distance: 6 hops
+
+OS detection performed. Please report any incorrect results at http://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 203.31 seconds
+
