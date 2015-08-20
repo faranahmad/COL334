@@ -1,0 +1,44 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : cse.iitd.ernet.in cse.iitd.ac.in iitd.ernet.in iitd.ac.in
+
+Ethernet adapter vEthernet (Internal Ethernet Port Windows Phone Emulator Internal Switch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::6917:fda1:4b49:2eab%14
+   IPv4 Address. . . . . . . . . . . : 169.254.80.80
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : iitd.ernet.in
+   Link-local IPv6 Address . . . . . : fe80::1d74:c13e:ac6e:8793%16
+   IPv4 Address. . . . . . . . . . . : 10.192.39.70
+   Subnet Mask . . . . . . . . . . . : 255.255.224.0
+   Default Gateway . . . . . . . . . : 10.192.32.1
+
+Ethernet adapter Ethernet 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter isatap.{CFEC1AFB-D998-4926-B433-499E4CA80CDD}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter isatap.iitd.ernet.in:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : iitd.ernet.in
