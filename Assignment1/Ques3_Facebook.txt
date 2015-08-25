@@ -1,0 +1,255 @@
+FACEBOOK:
+
+1. Austria:
+
+1 213.90.34.1 (213.90.34.1) 1.256 ms 0.737 ms 0.460 ms
+2 213.90.1.20 (213.90.1.20) 0.740 ms 1.005 ms 0.971 ms
+3 wat1-15-93.net.uta.at (62.218.15.93) 1.672 ms 2.953 ms 0.886 ms
+4 c76wat2-tge12-1.net.uta.at (212.152.192.166) 1.026 ms 1.248 ms 1.040 ms
+5 * * *
+6 fra36-core-1.bundle-ether7.tele2.net (130.244.206.28) 13.321 ms 14.191 ms 14.111 ms
+7 ams-core-2.bundle-ether4.tele2.net (130.244.64.201) 20.875 ms 20.231 ms 20.256 ms
+8 ams13-peer-1.ae8-unit0.tele2.net (130.244.38.233) 19.727 ms 19.772 ms 19.732 ms
+9 130.244.200.32 (130.244.200.32) 19.743 ms 19.782 ms 19.514 ms
+10 ae1.bb01.ams2.tfbnw.net (31.13.29.86) 19.571 ms 20.077 ms 19.578 ms
+MPLS Label=465793 CoS=6 TTL=1 S=0
+11 ae3.bb01.bos2.tfbnw.net (31.13.27.61) 104.811 ms 108.799 ms 104.792 ms
+MPLS Label=635170 CoS=6 TTL=1 S=0
+12 be25.bb01.lga1.tfbnw.net (31.13.27.57) 123.775 ms 123.510 ms 123.236 ms
+MPLS Label=26962 CoS=6 TTL=1 S=0
+13 ae15.bb04.dca1.tfbnw.net (74.119.76.26) 125.707 ms 109.280 ms 109.389 ms
+MPLS Label=600066 CoS=6 TTL=1 S=0
+14 ae10.pr01.lax1.tfbnw.net (31.13.24.176) 132.959 ms 132.931 ms 133.013 ms
+MPLS Label=674843 CoS=6 TTL=1 S=0
+15 ae5.dr01.atn2.tfbnw.net (74.119.77.55) 132.615 ms 132.401 ms 132.354 ms
+16 * * *
+17 * * *
+18 * * *
+19 * * *
+20 * * *
+21 edge-star-shv-03-atn1.facebook.com (173.252.88.66) 123.079 ms 123.065 ms 122.975 ms
+
+
+
+2. Canada:
+
+traceroute to 173.252.88.66 (173.252.88.66) from 216.234.191.172, 30 hops max, 40 byte packets
+ 1  cat6509-vlan2.edm.tera-byte.com (216.234.161.1)  0.498 ms
+ 2  *
+ 3  edtnabxmgr01.bb.telus.com (205.233.111.139)  1.452 ms
+ 4  CHCGILDTCI01.bb.telus.com (75.154.223.244)  39.789 ms
+ 5  ae5.pr02.ord1.tfbnw.net (103.4.96.48)  33.864 ms
+ 6  be20.bb01.ord1.tfbnw.net (74.119.77.134)  53.406 ms
+ 7  be7.bb01.atn1.tfbnw.net (31.13.26.26)  40.805 ms
+ 8  ae4.dr04.atn2.tfbnw.net (74.119.77.39)  40.159 ms
+ 9  *
+10  *
+11  *
+12  *
+13  *
+14  edge-star-shv-03-atn1.facebook.com (173.252.88.66)  46.160 ms
+
+3. Czech Republic:
+
+traceroute to 173.252.88.66 (173.252.88.66), 30 hops max, 60 byte packets
+ 1  78-157-167-1.silesnet.net (78.157.167.1) [AS43709]  7.700 ms  8.541 ms  9.365 ms
+ 2  78-157-167-206.silesnet.net (78.157.167.206) [AS43709]  0.096 ms  0.089 ms  0.083 ms
+ 3  cz-prg-asbr2-xe-4-1-1-v1517-dialtelecom.cz (82.113.38.105) [AS29208]  6.279 ms  6.260 ms  6.237 ms
+ 4  cz-prg-76kkk-po5.dialtelecom.cz (82.119.246.237) [AS29208]  15.474 ms  15.837 ms  15.833 ms
+ 5  82.119.246.229 (82.119.246.229) [AS29208]  15.434 ms  15.429 ms  15.480 ms
+ 6  de-ffm-asbr3-be2-dialtelecom.cz (82.119.245.186) [AS29208]  15.409 ms  15.446 ms  15.515 ms
+ 7  ae9.pr02.fra2.tfbnw.net (103.4.96.132) [AS32934]  14.659 ms  14.660 ms  14.665 ms
+ 8  be3.bb02.fra2.tfbnw.net (31.13.27.209) [AS32934]  132.017 ms  131.944 ms be3.bb01.fra2.tfbnw.net (31.13.27.207) [AS32934]  127.356 ms
+ 9  ae2.bb02.ams2.tfbnw.net (74.119.78.92) [AS32934]  21.965 ms ae2.bb01.ams2.tfbnw.net (74.119.76.10) [AS32934]  27.388 ms ae12.bb01.ams2.tfbnw.net (74.119.78.40) [AS32934]  21.929 ms
+10  ae4.bb01.bos2.tfbnw.net (204.15.23.57) [AS32934/AS10753]  97.932 ms ae8.bb01.lhr2.tfbnw.net (31.13.30.195) [AS32934]  26.813 ms ae4.bb01.bos2.tfbnw.net (204.15.23.57) [AS32934/AS10753]  98.275 ms
+11  be11.bb01.ewr2.tfbnw.net (31.13.30.98) [AS32934]  126.121 ms be25.bb01.lga1.tfbnw.net (31.13.27.57) [AS32934]  131.916 ms be14.bb01.ewr2.tfbnw.net (74.119.78.142) [AS32934]  126.085 ms
+12  be44.bb02.iad3.tfbnw.net (31.13.26.5) [AS32934]  126.086 ms be29.bb02.dca1.tfbnw.net (74.119.78.164) [AS32934]  127.216 ms  127.414 ms
+13  be24.bb02.atn1.tfbnw.net (31.13.25.2) [AS32934]  125.579 ms ae10.pr01.lax1.tfbnw.net (31.13.24.176) [AS32934]  130.113 ms be24.bb02.atn1.tfbnw.net (31.13.25.2) [AS32934]  127.138 ms
+14  ae1.dr07.atn1.tfbnw.net (74.119.76.73) [AS32934]  125.470 ms ae1.dr08.atn1.tfbnw.net (74.119.76.81) [AS32934]  126.782 ms ae4.dr04.atn2.tfbnw.net (74.119.77.39) [AS32934]  172.824 ms
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  edge-star-shv-03-atn1.facebook.com (173.252.88.66) [AS32934]  125.054 ms  126.797 ms  132.195 ms
+20  edge-star-shv-03-atn1.facebook.com (173.252.88.66) [AS32934]  125.054 ms  126.797 ms  132.195 ms
+
+4. Greece
+
+traceroute to 173.252.88.66 (173.252.88.66), 15 hops max, 52 byte packets
+ 1  warp-srv.noc.ntua.gr (147.102.222.200)  0.395 ms  0.351 ms  0.314 ms
+ 2  ntua-zogr-2-gw.kolettir.access-link.grnet.gr (62.217.96.176)  1.229 ms  1.214 ms  1.204 ms
+ 3  eier-kolettir-2.backbone.grnet.gr (62.217.100.67)  1.489 ms
+    eier-kolettir-3.backbone.grnet.gr (62.217.100.71)  1.328 ms
+    eier-kolettir-1.backbone.grnet.gr (62.217.100.63)  1.624 ms
+ 4  grnet.mx2.ath.gr.geant.net (62.40.124.89)  2.241 ms  1.829 ms  2.334 ms
+ 5  ae8.mx1.vie.at.geant.net (62.40.112.165)  29.757 ms  29.871 ms  29.788 ms
+ 6  193.203.0.194 (193.203.0.194)  29.822 ms  29.635 ms  29.873 ms
+ 7  be20.bb01.fra2.tfbnw.net (204.15.20.88)  156.013 ms
+    be14.bb01.fra2.tfbnw.net (31.13.29.158)  156.585 ms  150.306 ms
+ 8  ae2.bb01.ams2.tfbnw.net (74.119.76.10)  68.384 ms  53.311 ms  53.194 ms
+ 9  ae3.bb02.bos2.tfbnw.net (204.15.23.61)  126.148 ms  127.105 ms  144.574 ms
+10  be10.bb01.ewr2.tfbnw.net (204.15.23.59)  156.193 ms
+    be25.bb01.lga1.tfbnw.net (31.13.27.57)  156.401 ms
+    be23.bb01.lga1.tfbnw.net (74.119.78.102)  150.936 ms
+11  be44.bb01.iad3.tfbnw.net (31.13.26.1)  158.262 ms
+    be44.bb02.iad3.tfbnw.net (31.13.26.5)  157.532 ms
+    be44.bb01.iad3.tfbnw.net (31.13.26.1)  158.372 ms
+12  be4.bb02.atn1.tfbnw.net (31.13.27.14)  157.788 ms  153.319 ms
+    ae22.bb04.atn1.tfbnw.net (31.13.24.176)  155.058 ms
+13  ae4.dr03.atn2.tfbnw.net (74.119.77.37)  152.066 ms
+    ae2.dr07.atn1.tfbnw.net (74.119.76.93)  167.251 ms
+    ae3.dr07.atn1.tfbnw.net (74.119.76.101)  152.213 ms
+14  * * *
+15  * * *
+
+5. New Zealand
+
+traceroute to 173.252.88.66 (173.252.88.66), 30 hops max, 60 byte packets
+ 1  f0-1-0-15-c7204-1.kc.net.nz (202.27.217.193)  0.330 ms  0.321 ms  0.427 ms
+ 2  202.27.202.193 (202.27.202.193)  1.099 ms  1.072 ms  1.107 ms
+ 3  202.27.217.38 (202.27.217.38)  1.245 ms  1.156 ms  1.124 ms
+ 4  203-97-12-25.dsl.clear.net.nz (203.97.12.25)  51.421 ms  51.400 ms  51.368 ms
+ 5  unknown.telstraglobal.net (134.159.174.41)  4.998 ms  4.973 ms unknown.telstraglobal.net (134.159.174.37)  3.862 ms
+ 6  i-0-0-1-0.1wlt-core01.bx.telstraglobal.net (202.84.142.157)  129.225 ms i-0-5-1-0.1wlt-core01.bx.telstraglobal.net (202.84.142.118)  128.896 ms i-0-0-1-1.1wlt-core01.bx.telstraglobal.net (202.84.223.85)  127.379 ms
+ 7  i-0-4-0-3.tlot02.bi.telstraglobal.net (202.84.251.242)  126.915 ms i-0-4-0-4.tlot02.bi.telstraglobal.net (202.40.149.166)  126.942 ms i-0-4-0-1.tlot02.bi.telstraglobal.net (202.84.251.150)  126.277 ms
+ 8  ae16.pr01.lax1.tfbnw.net (103.4.96.160)  126.737 ms ae13.pr02.lax1.tfbnw.net (103.4.98.138)  126.572 ms ae16.pr01.lax1.tfbnw.net (103.4.96.160)  129.445 ms
+ 9  be19.bb02.lax1.tfbnw.net (204.15.23.220)  183.043 ms be2.bb01.lax1.tfbnw.net (31.13.30.24)  182.841 ms be19.bb02.lax1.tfbnw.net (204.15.23.220)  182.347 ms
+10  ae3.bb03.atn1.tfbnw.net (31.13.25.212)  182.005 ms 31.13.24.184 (31.13.24.184)  183.551 ms be10.bb01.atn1.tfbnw.net (31.13.25.208)  184.191 ms
+11  ae5.dr04.atn2.tfbnw.net (74.119.77.49)  183.525 ms ae4.dr03.atn2.tfbnw.net (74.119.77.37)  182.418 ms ae0.dr07.atn1.tfbnw.net (74.119.76.25)  182.389 ms
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  edge-star-shv-03-atn1.facebook.com (173.252.88.66)  182.317 ms  181.891 ms  183.193 ms
+
+6. South Africa
+
+traceroute to 173.252.88.66 (173.252.88.66), 30 hops max, 38 byte packets
+ 1  cisrb1-net109-64.posix.co.za (160.124.109.126)  0.230 ms  0.381 ms  0.198 ms
+ 2  cisldn1-cisrbc1.posix.co.za (160.124.1.2)  173.172 ms  168.939 ms  172.350 ms
+ 3  gi8-14.mag02.lon02.atlas.cogentco.com (149.6.149.9)  168.865 ms  185.898 ms  168.861 ms
+ 4  te0-0-0-9.ccr21.lon02.atlas.cogentco.com (154.54.60.145)  170.595 ms te0-7-0-7.ccr21.lon02.atlas.cogentco.com (154.54.60.149)  169.191 ms te0-0-0-9.ccr21.lon02.atlas.cogentco.com (154.54.60.145)  171.016 ms
+ 5  be2329.ccr22.lon01.atlas.cogentco.com (130.117.49.89)  169.694 ms be2328.ccr21.lon01.atlas.cogentco.com (130.117.49.85)  169.938 ms be2329.ccr22.lon01.atlas.cogentco.com (130.117.49.89)  169.503 ms
+ 6  te0-0-2-2.rcr11.b023101-0.lon01.atlas.cogentco.com (130.117.51.137)  169.739 ms te0-0-2-0.rcr11.b023101-0.lon01.atlas.cogentco.com (130.117.51.73)  171.738 ms  169.549 ms
+ 7  abovenet.lon09.atlas.cogentco.com (130.117.14.182)  169.110 ms  169.408 ms  169.100 ms
+ 8  ae5.mpr2.lhr2.uk.zip.zayo.com (64.125.21.9)  169.394 ms  170.932 ms  170.898 ms
+ 9  v113.ae29.cr1.lga5.us.zip.zayo.com (64.125.30.108)  239.091 ms  239.606 ms  241.568 ms
+10  ae2.er3.lga5.us.zip.zayo.com (64.125.31.214)  238.562 ms  238.759 ms  239.818 ms
+11  128.177.165.234.IPYX-100687-870-ZYO.zip.zayo.com (128.177.165.234)  237.905 ms  237.547 ms  238.072 ms
+12  be1.bb01.lga1.tfbnw.net (204.15.20.190)  267.589 ms  267.778 ms  267.294 ms
+13  ae15.bb03.dca1.tfbnw.net (74.119.76.20)  241.858 ms be44.bb01.iad3.tfbnw.net (31.13.26.1)  268.333 ms be29.bb02.dca1.tfbnw.net (74.119.78.164)  267.519 ms
+14  ae22.bb04.atn1.tfbnw.net (31.13.24.176)  267.578 ms ae3.bb04.atn1.tfbnw.net (31.13.27.16)  267.201 ms be4.bb01.atn1.tfbnw.net (31.13.24.78)  266.746 ms
+15  ae1.dr01.atn2.tfbnw.net (31.13.25.103)  265.521 ms ae4.dr03.atn2.tfbnw.net (74.119.77.37)  265.529 ms ae4.dr04.atn2.tfbnw.net (74.119.77.39)  319.343 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  edge-star-shv-03-atn1.facebook.com (173.252.88.66)  266.012 ms  265.838 ms  266.053 ms
+
+Completed in 91.17 seconds, 0% cpu
+
+
+
+7. Sweeden
+
+traceroute to 173.252.88.66 (173.252.88.66), 30 hops max, 60 byte packets
+ 1  195.128.76.225 (195.128.76.225)  0.272 ms  0.202 ms  0.201 ms
+ 2  ncc-8Q.TenE-0-0-0.macomnet.net (195.128.64.72)  0.340 ms  0.317 ms  0.285 ms
+ 3  rascom-macomnet-gw.as20764.net (80.64.101.9)  0.780 ms  0.799 ms  0.686 ms
+ 4  80-64-96-27.rascom.as20764.net (80.64.96.27)  44.853 ms  45.212 ms  45.183 ms
+ 5  ae1.br02.fra1.tfbnw.net (80.81.195.40)  45.098 ms ae1.br01.fra1.tfbnw.net (80.81.194.40)  44.797 ms  44.752 ms
+ 6  be19.bb02.fra2.tfbnw.net (31.13.30.14)  282.754 ms  282.662 ms  284.106 ms
+ 7  ae2.bb02.ams2.tfbnw.net (74.119.78.92)  59.624 ms ae12.bb01.ams2.tfbnw.net (74.119.78.40)  59.402 ms ae2.bb02.ams2.tfbnw.net (74.119.78.92)  59.828 ms
+ 8  ae3.bb01.bos2.tfbnw.net (31.13.27.61)  264.618 ms ae3.bb02.bos2.tfbnw.net (204.15.23.61)  278.516 ms ae9.bb01.lhr2.tfbnw.net (31.13.30.211)  57.222 ms
+ 9  be9.bb01.ewr2.tfbnw.net (31.13.27.59)  279.832 ms be25.bb01.lga1.tfbnw.net (31.13.27.57)  287.271 ms be9.bb01.ewr2.tfbnw.net (31.13.27.59)  271.920 ms
+10  be44.bb01.iad3.tfbnw.net (31.13.26.1)  266.667 ms  266.674 ms be44.bb02.iad3.tfbnw.net (31.13.26.5)  266.645 ms
+11  be4.bb02.atn1.tfbnw.net (31.13.27.14)  278.410 ms be4.bb01.atn1.tfbnw.net (31.13.24.78)  287.194 ms be4.bb02.atn1.tfbnw.net (31.13.27.14)  282.889 ms
+12  ae5.dr04.atn2.tfbnw.net (74.119.77.49)  290.458 ms ae5.dr02.atn2.tfbnw.net (74.119.77.85)  275.230 ms ae1.dr01.atn2.tfbnw.net (31.13.25.103)  266.243 ms
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  edge-star-shv-03-atn1.facebook.com (173.252.88.66)  276.179 ms  266.705 ms  265.676 ms
+
+8. Ukraine
+
+Tracing the route to edge-star-shv-03-atn1.facebook.com (173.252.88.66)
+
+  1 vip-rt00.teleportsv.net (80.249.224.99) 4 msec 0 msec 0 msec
+  2 93.183.237.225 [AS 21219] 0 msec 0 msec 0 msec
+  3 ae20-454.s31.kiev.datagroup.ua (80.91.160.129) [AS 21219] 8 msec 8 msec 8 msec
+  4 ae22-454.k90.fra.datagroup.ua (80.91.160.158) [AS 21219] 36 msec 32 msec 36 msec
+  5 ae1.br01.fra1.tfbnw.net (80.81.194.40) [AS 21219] 36 msec 36 msec 36 msec
+  6 be18.bb02.fra2.tfbnw.net (31.13.29.214) [AS 21219] 148 msec 148 msec 148 msec
+  7 ae2.bb02.ams2.tfbnw.net (74.119.78.92) [AS 21219] 44 msec
+    ae12.bb01.ams2.tfbnw.net (74.119.78.40) [AS 21219] 44 msec
+    ae2.bb02.ams2.tfbnw.net (74.119.78.92) [AS 21219] 40 msec
+  8 ae9.bb01.lhr2.tfbnw.net (31.13.30.211) [AS 21219] 48 msec
+    ae4.bb02.bos2.tfbnw.net (204.15.23.199) [AS 21219] 116 msec
+    ae4.bb01.bos2.tfbnw.net (204.15.23.57) [AS 21219] 124 msec
+  9 be23.bb01.lga1.tfbnw.net (74.119.78.102) [AS 21219] 144 msec
+    be14.bb01.ewr2.tfbnw.net (74.119.78.142) [AS 21219] 148 msec
+    be9.bb01.ewr2.tfbnw.net (31.13.27.59) [AS 21219] 152 msec
+ 10 be29.bb02.dca1.tfbnw.net (74.119.78.164) [AS 21219] 148 msec
+    ae15.bb04.dca1.tfbnw.net (74.119.76.26) [AS 21219] 128 msec
+    be29.bb02.dca1.tfbnw.net (74.119.78.164) [AS 21219] 148 msec
+ 11 ae3.bb04.atn1.tfbnw.net (31.13.27.16) [AS 21219] 152 msec
+    ae2.bb03.atn1.tfbnw.net (31.13.30.6) [AS 21219] 164 msec
+    ae10.pr01.lax1.tfbnw.net (31.13.24.176) [AS 21219] 152 msec
+ 12 ae2.dr05.atn1.tfbnw.net (74.119.76.89) [AS 21219] 160 msec
+    ae1.dr06.atn1.tfbnw.net (74.119.76.69) [AS 21219] 148 msec
+    ae3.dr07.atn1.tfbnw.net (74.119.76.101) [AS 21219] 152 msec
+ 13  *  *  * 
+ 14  *  *  * 
+ 15  *  *  * 
+ 16  *  *  * 
+ 17 ip-rt00.teleportsv.net (80.249.224.97) 144 msec 156 msec 148 msec
+ 18 edge-star-shv-03-atn1.facebook.com (173.252.88.66) [AS 21219] 152 msec 144 msec 140 msec
+
+9. United Kingdom
+
+traceroute to 173.252.88.66 (173.252.88.66), 30 hops max, 60 byte packets
+1 217.14.129.89 (217.14.129.89) 0.602 ms 0.517 ms 0.540 ms
+2 ae0-377.lon10.ip4.gtt.net (77.67.64.97) 0.400 ms 0.482 ms 0.450 ms
+3 ae8.edge4.London.Level3.net (4.68.111.25) 0.349 ms 0.329 ms 0.307 ms
+4 ae-4-90.edge2.SanJose3.Level3.net (4.69.152.209) 143.535 ms ae-1-60.edge2.SanJose3.Level3.net (4.69.152.17) 142.141 ms ae-4-90.edge2.SanJose3.Level3.net (4.69.152.209) 143.500 ms
+5 ae-1-60.edge2.SanJose3.Level3.net (4.69.152.17) 142.096 ms ae-3-80.edge2.SanJose3.Level3.net (4.69.152.145) 142.208 ms ae-4-90.edge2.SanJose3.Level3.net (4.69.152.209) 143.396 ms
+6 4.53.210.78 (4.53.210.78) 142.453 ms 142.105 ms 142.268 ms
+7 ae2.bb03.sjc1.tfbnw.net (31.13.26.164) 142.532 ms 142.487 ms 142.373 ms
+8 be27.bb01.lax1.tfbnw.net (31.13.25.200) 142.448 ms be24.bb02.lax1.tfbnw.net (31.13.25.204) 142.302 ms 142.193 ms
+9 be25.bb02.atn1.tfbnw.net (31.13.24.180) 141.952 ms 31.13.24.182 (31.13.24.182) 154.161 ms ae2.bb04.atn1.tfbnw.net (31.13.25.214) 142.003 ms
+10 ae1.dr01.atn2.tfbnw.net (31.13.25.103) 141.880 ms ae0.dr05.atn1.tfbnw.net (31.13.30.23) 250.003 ms ae0.dr06.atn1.tfbnw.net (31.13.31.227) 141.598 ms
+11 * * *
+12 * * *
+13 * * *
+14 * * *
+15 * * *
+16 edge-star-shv-03-atn1.facebook.com (173.252.88.66) 141.708 ms 142.003 ms 141.417 ms
+
+10. USA(2nd):
+
+traceroute to 173.252.88.66 (173.252.88.66), 30 hops max, 40 byte packets
+ 1  internal-router2.ntplx.net (204.213.176.102)  1.476 ms
+ 2  204.213.179.129 (204.213.179.129)  1.009 ms
+ 3  12.248.143.17 (12.248.143.17)  2.159 ms
+ 4  12.122.156.26 (12.122.156.26)  71.986 ms
+ 5  12.122.156.18 (12.122.156.18)  72.812 ms
+ 6  12.122.2.13 (12.122.2.13)  73.041 ms
+ 7  12.122.1.2 (12.122.1.2)  74.405 ms
+ 8  12.122.2.118 (12.122.2.118)  73.705 ms
+ 9  12.122.111.69 (12.122.111.69)  114.281 ms
+10  12.251.177.26 (12.251.177.26)  71.287 ms
+11  be3.bb01.sea1.tfbnw.net (74.119.79.26)  74.699 ms
+12  be15.bb01.prn2.tfbnw.net (31.13.27.234)  74.379 ms
+13  be22.bb01.atn1.tfbnw.net (31.13.24.140)  74.467 ms
+14  ae0.dr01.atn2.tfbnw.net (31.13.25.101)  74.666 ms
+15  *
+16  *
+17  *
+18  *
+19  *
+20  edge-star-shv-03-atn1.facebook.com (173.252.88.66)  73.462 ms

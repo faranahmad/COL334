@@ -1,0 +1,71 @@
+
+NetworkManager Tool
+
+State: connected (global)
+
+- Device: eth0  [Wired connection 1] -------------------------------------------
+  Type:              Wired
+  Driver:            r8169
+  State:             connected
+  Default:           yes
+  HW Address:        F0:76:1C:B9:09:56
+
+  Capabilities:
+    Carrier Detect:  yes
+    Speed:           1000 Mb/s
+
+  Wired Properties
+    Carrier:         on
+
+  IPv4 Settings:
+    Address:         10.208.23.222
+    Prefix:          22 (255.255.252.0)
+    Gateway:         10.208.20.1
+
+    DNS:             10.208.20.2
+    DNS:             10.208.20.19
+    DNS:             10.10.1.2
+    DNS:             10.10.2.2
+
+
+- Device: wlan0  [IITD_WIFI] ---------------------------------------------------
+  Type:              802.11 WiFi
+  Driver:            iwlwifi
+  State:             connected
+  Default:           no
+  HW Address:        10:4A:7D:52:76:AF
+
+  Capabilities:
+    Speed:           11 Mb/s
+
+  Wireless Properties
+    WEP Encryption:  yes
+    WPA Encryption:  yes
+    WPA2 Encryption: yes
+
+  Wireless Access Points (* = current AP)
+    eduroam:         Infra, 58:F3:9C:9D:AC:4E, Freq 5180 MHz, Rate 54 Mb/s, Strength 79 WPA WPA2 Enterprise
+    eduroam:         Infra, 58:F3:9C:9D:AC:41, Freq 2437 MHz, Rate 54 Mb/s, Strength 84 WPA WPA2 Enterprise
+    IITD_WIFI:       Infra, 58:F3:9C:C9:03:4F, Freq 5745 MHz, Rate 54 Mb/s, Strength 54 WPA WPA2 Enterprise
+    eduroam:         Infra, 58:F3:9C:C9:03:4E, Freq 5745 MHz, Rate 54 Mb/s, Strength 54 WPA WPA2 Enterprise
+    eduroam:         Infra, 58:F3:9C:C9:03:41, Freq 2412 MHz, Rate 54 Mb/s, Strength 49 WPA WPA2 Enterprise
+    IITD_GUEST:      Infra, 58:F3:9C:9D:AC:4D, Freq 5180 MHz, Rate 54 Mb/s, Strength 79
+    IITD_GUEST:      Infra, 58:F3:9C:9D:AC:42, Freq 2437 MHz, Rate 54 Mb/s, Strength 84
+    IITD_GUEST:      Infra, 58:F3:9C:C9:03:4D, Freq 5745 MHz, Rate 54 Mb/s, Strength 54
+    IITD_GUEST:      Infra, 58:F3:9C:C9:03:42, Freq 2412 MHz, Rate 54 Mb/s, Strength 49
+    eduroam:         Infra, 58:F3:9C:46:7F:5E, Freq 5220 MHz, Rate 54 Mb/s, Strength 22 WPA WPA2 Enterprise
+    IITD_GUEST:      Infra, 58:F3:9C:46:7F:5D, Freq 5220 MHz, Rate 54 Mb/s, Strength 24
+    IITD_WIFI:       Infra, 58:F3:9C:C9:03:40, Freq 2412 MHz, Rate 54 Mb/s, Strength 49 WPA WPA2 Enterprise
+    IITD_WIFI:       Infra, 58:F3:9C:9D:AC:4F, Freq 5180 MHz, Rate 54 Mb/s, Strength 62 WPA WPA2 Enterprise
+    IITD_WIFI:       Infra, 58:F3:9C:46:7F:5F, Freq 5220 MHz, Rate 54 Mb/s, Strength 27 WPA WPA2 Enterprise
+    *IITD_WIFI:      Infra, 58:F3:9C:9D:AC:40, Freq 2437 MHz, Rate 54 Mb/s, Strength 69 WPA WPA2 Enterprise
+
+  IPv4 Settings:
+    Address:         10.192.63.249
+    Prefix:          19 (255.255.224.0)
+    Gateway:         10.192.32.1
+
+    DNS:             10.10.1.2
+    DNS:             10.10.2.2
+
+

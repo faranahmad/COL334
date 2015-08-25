@@ -1,0 +1,332 @@
+WATERLOO
+
+1. Austria:
+
+ 1 213.90.34.1 (213.90.34.1) 0.579 ms 0.501 ms 0.429 ms
+2 213.90.1.20 (213.90.1.20) 0.890 ms 1.032 ms 0.585 ms
+3 wat1-15-93.net.uta.at (62.218.15.93) 0.812 ms 0.525 ms 0.602 ms
+4 c76wat2-tge12-1.net.uta.at (212.152.192.166) 6.348 ms 2.854 ms 1.188 ms
+5 * * *
+6 wen3-core-2.bundle-ether1.tele2.net (130.244.205.72) 8.955 ms 1.511 ms 1.457 ms
+7 wen3-peer-2.ae3-unit0.tele2.net (130.244.74.245) 1.182 ms 1.159 ms 1.151 ms
+8 peer-as174.wen3.tele2.net (130.244.200.66) 1.841 ms 2.026 ms 1.716 ms
+9 be2223.ccr22.muc03.atlas.cogentco.com (130.117.49.137) 15.238 ms 21.424 ms 14.008 ms
+10 be2229.ccr42.fra03.atlas.cogentco.com (154.54.38.57) 13.624 ms 13.664 ms 14.115 ms
+11 be2262.ccr42.ams03.atlas.cogentco.com (154.54.37.33) 20.417 ms 20.378 ms 20.635 ms
+12 be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69) 30.764 ms 30.363 ms 30.554 ms
+13 be2385.ccr22.ymq02.atlas.cogentco.com (154.54.44.141) 102.219 ms 102.958 ms 102.246 ms
+14 be2093.ccr22.yyz02.atlas.cogentco.com (154.54.44.105) 116.252 ms 116.325 ms 116.198 ms
+15 * university_of_waterloo.demarc.cogentco.com (38.99.202.214) 121.596 ms 121.458 ms
+16 * * *
+17 * * *
+18 * * *
+19 * * *
+20 wms.uwaterloo.ca (129.97.208.23) 113.336 ms 113.191 ms 113.394 ms 
+
+2. Canada:
+
+traceroute to 129.97.208.23 (129.97.208.23) from 216.234.191.172, 30 hops max, 40 byte packets
+ 1  cat6509-vlan2.edm.tera-byte.com (216.234.161.1)  0.533 ms
+ 2  *
+ 3  tcore3-edmonton_be1.net.bell.ca (64.230.119.232)  20.325 ms
+ 4  tcore4-vancouver_tengige0-15-0-5.net.bell.ca (64.230.77.109)  18.138 ms
+ 5  bx4-vancouver_xe2-1-0.net.bell.ca (64.230.183.110)  15.920 ms
+ 6  *
+ 7  10ge4-11.hcap9-tor.bb.allstream.net (199.212.169.202)  166.490 ms
+ 8  10ge4-11.hcap9-tor.bb.allstream.net (199.212.169.202)  242.124 ms
+ 9  216-191-167-38.dedicated.allstream.net (216.191.167.38)  52.782 ms
+10  *
+11  *
+12  *
+13  *
+14  wms.uwaterloo.ca (129.97.208.23)  53.045 ms
+15  *
+16  wms.uwaterloo.ca (129.97.208.23)  53.106 ms
+17  *
+18  wms.uwaterloo.ca (129.97.208.23)  53.538 ms
+19  *
+20  wms.uwaterloo.ca (129.97.208.23)  53.034 ms
+21  *
+22  wms.uwaterloo.ca (129.97.208.23)  54.053 ms
+23  *
+24  wms.uwaterloo.ca (129.97.208.23)  53.192 ms
+25  *
+26  wms.uwaterloo.ca (129.97.208.23)  53.111 ms
+27  *
+28  wms.uwaterloo.ca (129.97.208.23)  53.264 ms
+29  *
+30  wms.uwaterloo.ca (129.97.208.23)  53.401 ms
+
+3. Czech Republic:
+
+traceroute to 129.97.208.23 (129.97.208.23), 30 hops max, 60 byte packets
+ 1  78-157-167-1.silesnet.net (78.157.167.1) [AS43709]  7.893 ms  8.733 ms  9.562 ms
+ 2  78-157-167-206.silesnet.net (78.157.167.206) [AS43709]  0.087 ms  0.082 ms  0.073 ms
+ 3  78-157-167-194.silesnet.net (78.157.167.194) [AS43709]  0.754 ms  0.827 ms  0.898 ms
+ 4  81.19.34.133 (81.19.34.133) [AS25512]  7.313 ms  7.330 ms  7.356 ms
+ 5  10ge-3-1.phau2c76.cd-t.cz (81.19.33.70) [AS25512]  7.794 ms  7.889 ms  7.661 ms
+ 6  te0-7-0-10.ccr21.prg01.atlas.cogentco.com (149.6.24.69) [*]  7.915 ms  7.957 ms  8.000 ms
+ 7  be2078.ccr42.ham01.atlas.cogentco.com (130.117.0.165) [AS174]  16.428 ms  16.407 ms  16.455 ms
+ 8  be2268.ccr42.fra03.atlas.cogentco.com (130.117.50.181) [AS174]  25.051 ms  25.198 ms  25.265 ms
+ 9  be2262.ccr42.ams03.atlas.cogentco.com (154.54.37.33) [AS174]  28.340 ms  28.540 ms  28.417 ms
+10  be2183.ccr22.lpl01.atlas.cogentco.com (154.54.58.69) [AS174]  38.784 ms  38.551 ms  38.457 ms
+11  be2385.ccr22.ymq02.atlas.cogentco.com (154.54.44.141) [AS174]  108.391 ms  107.717 ms  107.755 ms
+12  be2093.ccr22.yyz02.atlas.cogentco.com (154.54.44.105) [AS174]  115.652 ms  115.698 ms  116.139 ms
+13  university_of_waterloo.demarc.cogentco.com (38.99.202.214) [AS174]  134.668 ms  134.770 ms  134.844 ms
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  wms.uwaterloo.ca (129.97.208.23) [AS19752/AS549/AS12093]  138.859 ms  138.792 ms  139.008 ms
+19  * * *
+20  wms.uwaterloo.ca (129.97.208.23) [AS19752/AS549/AS12093]  138.818 ms  138.790 ms  138.781 ms
+21  * * *
+22  wms.uwaterloo.ca (129.97.208.23) [AS19752/AS549/AS12093]  138.557 ms  138.826 ms  139.189 ms
+23  * * *
+24  wms.uwaterloo.ca (129.97.208.23) [AS19752/AS549/AS12093]  139.017 ms  138.799 ms  139.037 ms
+25  * * *
+26  wms.uwaterloo.ca (129.97.208.23) [AS19752/AS549/AS12093]  138.917 ms  138.893 ms  138.937 ms
+27  * * *
+28  wms.uwaterloo.ca (129.97.208.23) [AS19752/AS549/AS12093]  138.901 ms  139.213 ms  138.903 ms
+29  * * *
+30  wms.uwaterloo.ca (129.97.208.23) [AS19752/AS549/AS12093]  138.976 ms  138.476 ms  139.168 ms
+30  wms.uwaterloo.ca (129.97.208.23) [AS19752/AS549/AS12093]  138.976 ms  138.476 ms  139.168 ms
+
+4. Greece
+
+traceroute to 129.97.208.23 (129.97.208.23), 15 hops max, 52 byte packets
+ 1  warp-srv.noc.ntua.gr (147.102.222.200)  0.962 ms  0.355 ms  0.380 ms
+ 2  ntua-zogr-2-gw.kolettir.access-link.grnet.gr (62.217.96.176)  1.243 ms  1.220 ms  1.228 ms
+ 3  eier-kolettir-1.backbone.grnet.gr (62.217.100.63)  1.634 ms
+    eier-kolettir-2.backbone.grnet.gr (62.217.100.67)  3.071 ms
+    eier-kolettir-1.backbone.grnet.gr (62.217.100.63)  1.783 ms
+ 4  grnet.mx2.ath.gr.geant.net (62.40.124.89)  1.658 ms  1.549 ms  1.645 ms
+ 5  ae1.mx1.ath.gr.geant.net (62.40.112.215)  1.698 ms  1.533 ms  1.586 ms
+ 6  ae2.mx1.mil2.it.geant.net (62.40.98.150)  32.222 ms  33.817 ms  33.752 ms
+ 7  ae6.mx1.gen.ch.geant.net (62.40.98.112)  40.588 ms  40.611 ms  40.835 ms
+ 8  ae4.mx1.par.fr.geant.net (62.40.98.152)  48.079 ms  48.098 ms  47.951 ms
+ 9  canarie-bckp-gw.mx1.ams.nl.geant.net (62.40.124.226)  128.868 ms  130.010 ms  128.922 ms
+10  be204.pe01-otwa.orion.on.ca (205.189.32.229)  133.424 ms  134.816 ms  133.455 ms
+11  be108.p01-ptbo.orion.on.ca (66.97.16.57)  143.583 ms
+    be107.p01-toro.orion.on.ca (66.97.16.53)  139.368 ms
+    be108.p01-ptbo.orion.on.ca (66.97.16.57)  142.325 ms
+12  be5.p01-lond.orion.on.ca (66.97.16.18)  140.331 ms
+    be4.p01-york.orion.on.ca (66.97.16.13)  143.558 ms
+    be1.p01-york.orion.on.ca (66.97.16.2)  137.489 ms
+13  be119.pe01-wtlo.orion.on.ca (66.97.16.110)  143.782 ms  136.696 ms  142.275 ms
+14  66.97.28.66 (66.97.28.66)  143.583 ms  145.857 ms  142.430 ms
+15  * * *
+
+5. New Zealand
+
+traceroute to 129.97.208.23 (129.97.208.23), 30 hops max, 60 byte packets
+ 1  f0-1-0-15-c7204-1.kc.net.nz (202.27.217.193)  0.386 ms  0.391 ms  0.377 ms
+ 2  202.27.202.193 (202.27.202.193)  1.168 ms  1.145 ms  1.111 ms
+ 3  202.27.217.38 (202.27.217.38)  1.319 ms  1.263 ms  1.277 ms
+ 4  203-97-12-25.dsl.clear.net.nz (203.97.12.25)  1.532 ms  1.485 ms  1.450 ms
+ 5  unknown.telstraglobal.net (134.159.174.37)  3.611 ms  3.544 ms  3.520 ms
+ 6  i-0-5-1-1.1wlt-core01.bx.telstraglobal.net (202.84.142.114)  131.813 ms i-0-0-4-0.1wlt-core01.bx.telstraglobal.net (202.84.142.106)  129.902 ms i-0-5-1-0.1wlt-core01.bx.telstraglobal.net (202.84.142.118)  129.924 ms
+ 7  i-0-0-0-5.eqla01.bi.telstraglobal.net (202.40.149.210)  126.977 ms i-0-0-0-2.eqla01.bi.telstraglobal.net (202.40.149.130)  126.453 ms i-0-5-0-0.eqla01.bi.telstraglobal.net (202.84.253.2)  127.120 ms
+ 8  cogent-peer.eqla01.pr.telstraglobal.net (134.159.63.198)  129.281 ms  129.557 ms  129.533 ms
+ 9  be2179.ccr22.lax01.atlas.cogentco.com (154.54.41.81)  130.277 ms  129.458 ms  129.388 ms
+10  be2066.ccr22.iah01.atlas.cogentco.com (154.54.7.53)  167.772 ms  167.891 ms  167.819 ms
+11  be2443.ccr22.dfw01.atlas.cogentco.com (154.54.44.230)  172.534 ms  168.066 ms  168.902 ms
+12  be2433.ccr22.mci01.atlas.cogentco.com (154.54.3.214)  177.874 ms  177.991 ms  180.035 ms
+13  be2157.ccr42.ord01.atlas.cogentco.com (154.54.6.118)  190.272 ms  190.676 ms  189.992 ms
+14  be2185.ccr22.cle04.atlas.cogentco.com (154.54.43.178)  198.049 ms  197.973 ms  197.632 ms
+15  be2597.ccr22.yyz02.atlas.cogentco.com (154.54.31.90)  205.646 ms  209.241 ms  204.941 ms
+16  university_of_waterloo.demarc.cogentco.com (38.99.202.214)  209.268 ms  209.141 ms  208.449 ms
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  wms.uwaterloo.ca (129.97.208.23)  207.347 ms  206.827 ms  207.457 ms
+22  * * *
+23  wms.uwaterloo.ca (129.97.208.23)  207.356 ms  208.124 ms  208.114 ms
+24  * * *
+25  wms.uwaterloo.ca (129.97.208.23)  206.962 ms  207.027 ms  207.365 ms
+26  * * *
+27  wms.uwaterloo.ca (129.97.208.23)  208.063 ms  208.231 ms  206.894 ms
+28  * * *
+29  wms.uwaterloo.ca (129.97.208.23)  207.477 ms  208.220 ms  207.448 ms
+30  * * *
+
+
+6. South Africa
+
+
+
+traceroute to 129.97.208.23 (129.97.208.23), 30 hops max, 38 byte packets
+ 1  cisrb1-net109-64.posix.co.za (160.124.109.126)  0.426 ms  0.421 ms  0.442 ms
+ 2  cisldn1-cisrbc1.posix.co.za (160.124.1.2)  168.844 ms  168.827 ms  168.869 ms
+ 3  gi8-14.mag02.lon02.atlas.cogentco.com (149.6.149.9)  169.080 ms  168.941 ms  168.880 ms
+ 4  te0-0-0-9.ccr21.lon02.atlas.cogentco.com (154.54.60.145)  169.115 ms te0-7-0-7.ccr21.lon02.atlas.cogentco.com (154.54.60.149)  169.319 ms te0-0-0-9.ccr21.lon02.atlas.cogentco.com (154.54.60.145)  169.261 ms
+ 5  be2329.ccr22.lon01.atlas.cogentco.com (130.117.49.89)  169.778 ms be2328.ccr21.lon01.atlas.cogentco.com (130.117.49.85)  170.654 ms be2329.ccr22.lon01.atlas.cogentco.com (130.117.49.89)  169.533 ms
+ 6  be2178.ccr42.lon13.atlas.cogentco.com (130.117.50.206)  169.762 ms be2494.ccr42.lon13.atlas.cogentco.com (154.54.39.130)  169.799 ms  170.354 ms
+ 7  be2491.ccr22.lpl01.atlas.cogentco.com (154.54.39.117)  176.810 ms  176.251 ms  176.429 ms
+ 8  be2385.ccr22.ymq02.atlas.cogentco.com (154.54.44.141)  246.298 ms  246.169 ms  246.274 ms
+ 9  be2093.ccr22.yyz02.atlas.cogentco.com (154.54.44.105)  253.850 ms  253.767 ms  253.780 ms
+10  university_of_waterloo.demarc.cogentco.com (38.99.202.214)  259.035 ms  258.883 ms  259.362 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  wms.uwaterloo.ca (129.97.208.23)  259.425 ms  259.524 ms  259.592 ms
+16  * * *
+17  wms.uwaterloo.ca (129.97.208.23)  259.423 ms  259.531 ms  259.534 ms
+18  * * *
+19  wms.uwaterloo.ca (129.97.208.23)  259.558 ms  261.502 ms  259.520 ms
+20  * * *
+21  wms.uwaterloo.ca (129.97.208.23)  260.519 ms  259.270 ms  259.533 ms
+22  * * *
+23  wms.uwaterloo.ca (129.97.208.23)  259.504 ms  260.314 ms  259.242 ms
+24  * * *
+25  wms.uwaterloo.ca (129.97.208.23)  259.476 ms  259.559 ms  259.872 ms
+26  * * *
+27  wms.uwaterloo.ca (129.97.208.23)  260.273 ms  259.721 ms  260.821 ms
+28  * * *
+29  wms.uwaterloo.ca (129.97.208.23)  260.068 ms  259.273 ms  259.762 ms
+30  * * *
+
+Completed in 193.69 seconds, 0% cpu
+
+
+7. Sweeden
+
+traceroute to 129.97.208.23 (129.97.208.23), 30 hops max, 60 byte packets
+ 1  195.128.76.225 (195.128.76.225)  0.274 ms  0.231 ms  0.225 ms
+ 2  ncc-8Q.TenE-0-0-0.macomnet.net (195.128.64.72)  0.388 ms  0.343 ms  0.335 ms
+ 3  rascom-macomnet-gw.as20764.net (80.64.101.9)  0.829 ms  0.816 ms  0.730 ms
+ 4  80-64-96-29.rascom.as20764.net (80.64.96.29)  18.570 ms  18.793 ms  18.751 ms
+ 5  lag-127-401.ear1.Stockholm2.Level3.net (213.242.110.41)  18.583 ms  18.897 ms  19.126 ms
+ 6  * * *
+ 7  ALLSTREAM-I.ear3.NewYork1.Level3.net (4.28.130.30)  122.269 ms  122.258 ms  122.182 ms
+ 8  * * *
+ 9  * * *
+10  216-191-167-38.dedicated.allstream.net (216.191.167.38)  141.416 ms  141.727 ms  144.071 ms
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  wms.uwaterloo.ca (129.97.208.23)  141.454 ms  143.891 ms  143.854 ms
+16  * * *
+17  wms.uwaterloo.ca (129.97.208.23)  142.080 ms  141.240 ms  143.975 ms
+18  * * *
+19  wms.uwaterloo.ca (129.97.208.23)  142.510 ms  141.452 ms  144.169 ms
+20  * * *
+21  wms.uwaterloo.ca (129.97.208.23)  141.411 ms  145.000 ms  141.959 ms
+22  * * *
+23  wms.uwaterloo.ca (129.97.208.23)  144.305 ms  141.805 ms  144.219 ms
+24  * * *
+25  wms.uwaterloo.ca (129.97.208.23)  141.529 ms  141.448 ms  144.476 ms
+26  * * *
+27  wms.uwaterloo.ca (129.97.208.23)  141.542 ms  141.562 ms  141.197 ms
+28  * * *
+29  wms.uwaterloo.ca (129.97.208.23)  145.516 ms  144.252 ms  141.424 ms
+30  * * *
+
+
+8. Ukraine
+
+Tracing the route to wms.uwaterloo.ca (129.97.208.23)
+
+  1 vip-rt00.teleportsv.net (80.249.224.99) 0 msec 4 msec 0 msec
+  2 93.183.237.225 [AS 21219] 0 msec 0 msec 0 msec
+  3 ae20-454.s31.kiev.datagroup.ua (80.91.160.129) [AS 21219] 8 msec 8 msec 8 msec
+  4 ae22-454.k90.fra.datagroup.ua (80.91.160.158) [AS 21219] 36 msec 32 msec 36 msec
+  5 62.67.36.125 [AS 21219] 32 msec 32 msec 56 msec
+  6  *  *  * 
+  7 ALLSTREAM-I.ear3.NewYork1.Level3.net (4.28.130.30) [AS 21219] 116 msec 112 msec 120 msec
+  8  *  *  * 
+  9  *  *  * 
+ 10 216-191-167-38.dedicated.allstream.net (216.191.167.38) [AS 21219] 136 msec 140 msec 136 msec
+ 11  *  *  * 
+ 12  *  *  * 
+ 13  *  *  * 
+ 14  *  *  * 
+ 15 wms.uwaterloo.ca (129.97.208.23) [AS 21219] 136 msec 136 msec 136 msec
+ 16  *  *  * 
+ 17 wms.uwaterloo.ca (129.97.208.23) [AS 21219] 136 msec 136 msec 136 msec
+ 18  *  *  * 
+ 19 wms.uwaterloo.ca (129.97.208.23) [AS 21219] 136 msec 140 msec 136 msec
+ 20  *  *  * 
+ 21 wms.uwaterloo.ca (129.97.208.23) [AS 21219] 136 msec 140 msec 136 msec
+ 22  *  *  * 
+ 23 wms.uwaterloo.ca (129.97.208.23) [AS 21219] 136 msec 136 msec 136 msec
+ 24  *  *  * 
+ 25 wms.uwaterloo.ca (129.97.208.23) [AS 21219] 136 msec 136 msec 140 msec
+ 26  *  *  * 
+ 27 wms.uwaterloo.ca (129.97.208.23) [AS 21219] 148 msec 136 msec 140 msec
+ 28  *  *  * 
+ 29 wms.uwaterloo.ca (129.97.208.23) [AS 21219] 136 msec 140 msec 136 msec
+ 30  *  *  * 
+
+
+
+9. United Kingdom
+
+traceroute to 129.97.208.23 (129.97.208.23), 30 hops max, 60 byte packets
+1 217.14.129.89 (217.14.129.89) 0.525 ms 0.491 ms 0.556 ms
+2 ae0-377.lon10.ip4.gtt.net (77.67.64.97) 0.447 ms 0.460 ms 0.401 ms
+3 xe-1-3-0.mtl10.ip4.gtt.net (89.149.184.74) 86.037 ms 86.038 ms 86.023 ms
+4 hydro-one-gw.ip4.gtt.net (216.221.158.154) 87.218 ms 87.188 ms 87.164 ms
+5 142.47.202.56 (142.47.202.56) 94.139 ms 94.182 ms 94.168 ms
+6 142.47.202.49 (142.47.202.49) 94.057 ms 93.859 ms 142.47.202.63 (142.47.202.63) 94.537 ms
+7 142.46.4.146 (142.46.4.146) 98.227 ms 98.162 ms 98.220 ms
+8 * * *
+9 * * *
+10 * * *
+11 * * *
+12 wms.uwaterloo.ca (129.97.208.23) 98.997 ms 99.121 ms 99.025 ms
+13 * * *
+14 wms.uwaterloo.ca (129.97.208.23) 98.920 ms 98.904 ms 98.865 ms
+15 * * *
+16 wms.uwaterloo.ca (129.97.208.23) 98.996 ms 99.446 ms 99.184 ms
+17 * * *
+18 wms.uwaterloo.ca (129.97.208.23) 99.318 ms 99.322 ms 99.307 ms
+19 * * *
+20 wms.uwaterloo.ca (129.97.208.23) 99.178 ms 99.140 ms 99.127 ms
+21 * * *
+22 wms.uwaterloo.ca (129.97.208.23) 99.084 ms 99.062 ms 99.292 ms
+23 * * *
+24 wms.uwaterloo.ca (129.97.208.23) 99.180 ms 99.108 ms 99.106 ms
+25 * * *
+26 wms.uwaterloo.ca (129.97.208.23) 99.301 ms 99.274 ms 99.235 ms
+27 * * *
+28 wms.uwaterloo.ca (129.97.208.23) 99.172 ms 99.417 ms 99.149 ms
+29 * * *
+30 wms.uwaterloo.ca (129.97.208.23) 99.277 ms 99.700 ms 99.400 ms
+
+10. USA(2nd)
+
+traceroute to 129.97.208.23 (129.97.208.23), 30 hops max, 40 byte packets
+ 1  internal-router2.ntplx.net (204.213.176.102)  1.321 ms
+ 2  204.213.179.129 (204.213.179.129)  1.278 ms
+ 3  12.248.143.17 (12.248.143.17)  2.134 ms
+ 4  12.122.156.26 (12.122.156.26)  5.288 ms
+ 5  12.122.156.18 (12.122.156.18)  5.790 ms
+ 6  n54ny401me5.n54ny.ip.att.net (12.122.105.117)  4.575 ms
+ 7  12.249.88.170 (12.249.88.170)  4.692 ms
+ 8  10ge4-11.hcap9-tor.bb.allstream.net (199.212.169.202)  26.614 ms
+ 9  10ge4-11.hcap9-tor.bb.allstream.net (199.212.169.202)  26.460 ms
+10  216-191-167-38.dedicated.allstream.net (216.191.167.38)  28.744 ms
+11  *
+12  *
+13  *
+14  *
+15  wms.uwaterloo.ca (129.97.208.23)  28.146 ms
+16  *
+17  wms.uwaterloo.ca (129.97.208.23)  28.840 ms
+18  *
+19  wms.uwaterloo.ca (129.97.208.23)  28.106 ms
+20  *
+21  wms.uwaterloo.ca (129.97.208.23)  28.258 ms
+22  *
+23  wms.uwaterloo.ca (129.97.208.23)  28.247 ms
+24  *
+25  wms.uwaterloo.ca (129.97.208.23)  28.860 ms
+26  *
+27  wms.uwaterloo.ca (129.97.208.23)  28.676 ms
+28  *
+29  wms.uwaterloo.ca (129.97.208.23)  29.658 ms
+30  *
