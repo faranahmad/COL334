@@ -18,7 +18,7 @@ if freqinhour==0:
 else:
 	timedelay = 3600/freqinhour
 
-nmapfile = 'nmaps_new.csv'
+nmapfile = 'nmaps_kara.csv'
 ifconfigfile='ifconfigs.csv'
 osmaps = 'osmaps.csv'
 count=0
