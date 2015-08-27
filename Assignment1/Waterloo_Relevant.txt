@@ -1,0 +1,1239 @@
+Waterloo
+
+
+1. Austria:
+
+1
+213.90.34.1
+netname:        NWY
+country:        AT
+
+
+2
+213.90.1.20
+netname:        NWY
+country:        AT
+
+
+
+3
+62.218.15.93
+netname:        PTP-NETS
+country:        AT
+
+
+4
+212.152.192.166
+netname:        AT-UTA-19990630
+country:        AT
+
+
+5
+
+6
+130.244.205.72
+netname:        SE-SWIPNET-19940728
+country:        SE
+
+
+
+7
+130.244.74.245
+netname:        SE-SWIPNET-19940728
+descr:          Swipnet backbone
+country:        SE
+
+
+8
+130.244.200.66
+netname:        SE-SWIPNET-19940728
+country:        SE
+
+
+9
+130.117.49.137
+network:Network-Name:NET4-827531881E
+network:Country:US
+
+
+
+10
+154.54.38.57
+network:Network-Name:NET4-9A3626381E
+network:Country:US
+
+
+11
+154.54.37.33
+network:Network-Name:NET4-9A3625201E
+network:Country:US
+
+
+
+12
+154.54.58.69
+network:Network-Name:NET4-9A363A441E
+network:Country:US
+
+
+
+13
+154.54.44.141
+network:Network-Name:NET4-9A362C8C1E
+network:Country:US
+
+
+
+
+14
+154.54.44.105
+network:Network-Name:NET4-9A362C681E
+network:Country:US
+
+
+
+15
+38.99.202.214
+network:Network-Name:NET4-2663CAD41E
+network:Country:CA
+
+
+
+16
+
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+129.97.208.23
+NetName:        UWATERLOO-V4
+Country:        CA
+
+
+
+2.  Canada:
+
+
+1
+216.234.161.1
+network:Network-Name:NET-216-234-161-1
+
+
+2
+
+3
+64.230.119.232
+NetName:        BELLCANADA-5
+Country:        CA
+
+
+
+
+4
+64.230.77.109
+NetName:        BELLCANADA-5
+Country:        CA
+
+
+5
+64.230.183.110
+NetName:        BELLCANADA-5
+Country:        CA
+
+6
+
+
+7
+199.212.169.202
+network:Network-Name:NET-ALLSTREAM-6582
+
+
+8
+199.212.169.202
+network:Network-Name:NET-ALLSTREAM-6582
+
+
+9
+216.191.167.38
+network:Network-Name:NET-UNIVERSITY-1
+network:Network-Name:NET-ALLSTREAM-4633
+
+
+10
+
+
+11
+
+
+12
+
+
+
+13
+
+
+14
+129.97.208.23
+NetName:        UWATERLOO-V4
+Country:        CA
+
+
+Every Alternate has the same thing
+
+15
+
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+26
+
+
+27
+
+
+28
+
+
+29
+
+
+30
+
+
+
+3. Czech Republic:
+
+1
+78.157.167.1
+netname:        SILESNET
+country:        CZ
+
+
+2
+78.157.167.206
+netname:        SILESNET
+country:        CZ
+
+
+3
+78.157.167.194
+netname:        SILESNET
+country:        CZ
+
+
+4
+81.19.34.133
+netname:        CDT-CZ-NET
+country:        CZ
+
+
+
+5
+81.19.33.70
+netname:        CDT-CZ-NET
+country:        CZ
+
+
+6
+149.6.24.69
+network:Network-Name:NET4-950618441E
+network:Country:CZ
+
+
+7
+130.117.0.165
+network:Network-Name:NET4-827500A41E
+network:Country:US
+
+
+8
+130.117.50.181
+network:Network-Name:NET4-827532B41E
+network:Country:US
+
+
+9
+154.54.37.33
+network:Network-Name:NET4-9A3625201E
+network:Country:US
+
+
+10
+154.54.58.69
+network:Network-Name:NET4-9A363A441E
+network:Country:US
+
+
+11
+154.54.44.141
+network:Network-Name:NET4-9A362C8C1E
+network:Country:US
+
+
+12
+
+154.54.44.105
+network:Network-Name:NET4-9A362C681E
+network:Country:US
+
+
+13
+38.99.202.214
+network:Network-Name:NET4-2663CAD41E
+network:Country:CA
+
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+18
+129.97.208.23
+NetName:        UWATERLOO-V4
+Country:        CA
+
+
+
+Every alternate has the same, and others blank
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+26
+
+
+27
+
+
+28
+
+
+29
+
+
+30
+
+4. Greece
+
+1
+147.102.222.200
+netname:        NTUA
+country:        GR
+
+
+2
+62.217.96.176
+netname:        GRNET
+country:        GR
+
+
+3
+62.217.100.63
+netname:        GRNET
+country:        GR
+
+
+
+4
+62.40.124.89
+netname:        GEANT
+country:        GB
+
+
+5
+62.40.112.215
+netname:        GEANT
+country:        GB
+
+
+6
+62.40.98.112
+netname:        GEANT
+country:        GB
+
+
+7
+62.40.98.152
+netname:        GEANT
+country:        GB
+
+
+8
+62.40.124.226
+netname:        GEANT
+country:        GB
+
+
+9
+62.40.124.226
+netname:        GEANT
+country:        GB
+
+
+10
+205.189.32.229
+NetName:        CANARIE
+Country:        CA
+
+
+11
+66.97.16.57
+NetName:        ORION
+Country:        CA
+
+
+12
+66.97.16.18
+NetName:        ORION
+Country:        CA
+
+
+
+13
+66.97.16.110
+NetName:        ORION
+Country:        CA
+
+
+14
+66.97.28.66
+NetName:        ORION
+Country:        CA
+
+
+15
+
+5. New Zealand:
+
+1
+202.27.217.193
+netname:        KCCS-217
+country:        NZ
+
+
+2
+202.27.202.193
+netname:        KCCS-27-202
+country:        NZ
+
+
+
+
+3
+202.27.217.38
+netname:        KCCS-217
+country:        NZ
+
+
+
+
+
+4
+203.97.12.25
+netname:        VODAFONE-AP
+country:        NZ
+
+
+
+
+
+5
+134.159.174.37
+netname:        TELSTRAGLOBAL-AP
+country:        NZ
+
+
+
+
+
+6
+202.84.142.114
+netname:        TELSTRAGLOBAL-AP
+country:        HK
+
+
+
+
+7
+202.40.149.210
+netname:        REACH-AP
+country:        HK
+
+
+
+
+8
+134.159.63.198
+netname:        TELSTRAGLOBAL-AP
+country:        US
+
+
+
+
+9
+154.54.41.81
+network:Network-Name:NET4-9A3629501E
+network:Country:US
+
+
+10
+154.54.7.53
+network:Network-Name:NET4-9A3607341E
+network:Country:US
+
+
+11
+154.54.44.230
+network:Network-Name:NET4-9A362CE41E
+network:Country:US
+
+
+12
+154.54.3.214
+network:Network-Name:NET4-9A3603D41E
+network:Country:US
+
+
+
+13
+154.54.6.118
+network:Network-Name:NET4-9A3606741E
+network:Country:US
+
+
+14
+154.54.43.178
+network:Network-Name:NET4-9A362BB01E
+network:Country:US
+
+
+15
+154.54.31.90
+network:Network-Name:NET4-9A361F581E
+network:Country:US
+
+
+16
+38.99.202.214
+network:Network-Name:NET4-2663CAD41E
+network:Country:CA
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+
+21
+129.97.208.23
+NetName:        UWATERLOO-V4
+Country:        CA
+
+
+Every alternate is the same
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+26
+
+
+27
+
+
+28
+
+
+29
+
+
+30
+
+6. South Africa:
+
+
+
+1
+160.124.109.126
+netname:        POSIX-AFRICA
+country:        ZA
+
+
+2
+
+160.124.1.2
+netname:        POSIX-AFRICA
+country:        ZA
+
+
+
+3
+149.6.149.9
+network:Network-Name:NET4-950695081E
+
+
+
+4
+154.54.60.145
+network:Network-Name:NET4-9A363C901E
+network:Country:US
+
+
+
+5
+130.117.49.89
+network:Network-Name:NET4-827531581E
+network:Country:US
+
+
+
+6
+130.117.50.206
+network:Network-Name:NET4-827532CC1E
+network:Country:US
+
+
+7
+154.54.39.117
+network:Network-Name:NET4-9A3627741E
+network:Country:US
+
+
+8
+154.54.44.141
+network:Network-Name:NET4-9A362C8C1E
+network:Country:US
+
+
+9
+154.54.44.105
+network:Network-Name:NET4-9A362C681E
+network:Country:US
+
+
+10
+38.99.202.214
+network:Network-Name:NET4-2663CAD41E
+network:Country:CA
+
+
+11
+
+
+12
+
+
+
+13
+
+
+14
+
+
+15
+129.97.208.23
+NetName:        UWATERLOO-V4
+Country:        CA
+
+
+Every alternate is the smae
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+26
+
+
+27
+
+
+28
+
+
+29
+
+
+30
+
+7. Sweeden
+
+1
+195.128.76.225
+netname:        RU-MACOMNET-970312
+country:        RU
+
+
+2
+195.128.64.72
+netname:        MACOMNET
+country:        RU
+
+
+3
+80.64.101.9
+netname:        RASCOM-INET
+country:        RU
+
+
+
+4
+80.64.96.29
+netname:        RASCOM-INET
+country:        RU
+
+
+
+5
+213.242.110.41
+netname:        STOCKHOLM-CAR-CUSTOMERLINKS
+country:        FR
+
+
+6
+
+
+7
+4.28.130.30
+Level 3 Communications, Inc. LVLT-ORG-4-8
+
+
+8
+
+
+9
+
+
+10
+216.191.167.38
+network:Network-Name:NET-UNIVERSITY-1
+network:Network-Name:NET-ALLSTREAM-4633
+
+
+11
+
+
+12
+
+
+
+13
+
+
+14
+
+
+15
+129.97.208.23
+NetName:        UWATERLOO-V4
+Country:        CA
+
+
+Every alternate is the same
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+26
+
+
+27
+
+
+28
+
+
+29
+
+
+30
+
+
+8. Ukraine
+
+1
+80.249.224.99
+netname:        TeleportSV
+country:        UA
+
+
+2
+93.183.237.225
+netname:        INTERCONNECTIONS-DATAGROUP
+country:        UA
+
+
+3
+80.91.160.129
+netname:        INTERCONNECTIONS-DATAGROUP
+country:        UA
+
+
+
+4
+80.91.160.158
+netname:        INTERCONNECTIONS-DATAGROUP
+country:        UA
+
+
+
+5
+62.67.36.125
+netname:        FRANKFURT-SERIAL2
+country:        DE
+
+
+6
+
+
+7
+4.28.130.30
+Level 3 Communications, Inc. LVLT-ORG-4-8
+
+
+
+8
+
+
+9
+
+
+10
+216.191.167.38
+network:Network-Name:NET-UNIVERSITY-1
+network:Network-Name:NET-ALLSTREAM-4633
+
+
+11
+
+
+12
+
+
+
+13
+
+
+14
+
+
+15
+129.97.208.23
+NetName:        UWATERLOO-V4
+Country:        CA
+
+
+Every alternate is the same
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+26
+
+
+27
+
+
+28
+
+
+29
+
+
+30
+
+9. United Kingdom
+
+1
+217.14.129.89
+netname:        HOTLINKS
+country:        GB
+
+
+2
+77.67.64.97
+netname:        NACNET-EU
+country:        DE
+
+
+3
+89.149.184.74
+netname:        NACNET-EU
+country:        DE
+
+
+
+4
+216.221.158.154
+Tinet TINET-TINET
+
+
+
+5
+142.47.202.56
+NetName:        ONTARIO-HYDRO
+Country:        CA
+
+
+6
+142.47.202.49
+NetName:        ONTARIO-HYDRO
+Country:        CA
+
+
+7
+142.46.4.146
+NetName:        ONTARIO-HYDRO
+Country:        CA
+
+
+8
+
+
+9
+
+
+10
+
+
+11
+
+
+
+12
+129.97.208.23
+NetName:        UWATERLOO-V4
+Country:        CA
+
+
+
+Every alternate is the same
+13
+
+
+14
+
+
+15
+
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+26
+
+
+27
+
+
+28
+
+
+29
+
+
+30
+
+
+10. USA
+
+1
+204.213.176.102
+NETPLEX SPRINT-CCD5BF
+
+
+2
+204.213.179.129
+NETPLEX SPRINT-CCD5BF
+
+
+3
+12.248.143.17
+AT&T Services, Inc. ATT
+
+
+
+4
+12.122.156.26
+AT&T Worldnet Services ATTSVI-12-122-0-0
+
+
+5
+12.122.156.18
+AT&T Worldnet Services ATTSVI-12-122-0-0
+
+
+6
+12.122.105.117
+AT&T Worldnet Services ATTSVI-12-122-0-0
+
+
+7
+12.249.88.170
+AT&T Worldnet Services ATTSVI-12-122-0-0
+
+
+8
+199.212.169.202
+network:Network-Name:NET-ALLSTREAM-6582
+
+
+9
+199.212.169.202
+network:Network-Name:NET-ALLSTREAM-6582
+
+
+10
+216.191.167.38
+network:Network-Name:NET-UNIVERSITY-1
+network:Network-Name:NET-ALLSTREAM-4633
+
+
+11
+
+
+12
+
+
+
+13
+
+
+14
+
+
+15
+129.97.208.23
+NetName:        UWATERLOO-V4
+Country:        CA
+
+
+Every alternate is the same
+
+16
+
+
+17
+
+
+18
+
+
+19
+
+
+20
+
+
+21
+
+
+22
+
+
+23
+
+
+24
+
+
+25
+
+
+26
+
+
+27
+
+
+28
+
+
+29
+
+
+30

@@ -1,0 +1,913 @@
+ETH
+
+
+1. Austria:
+
+1
+213.90.34.1
+netname:        NWY
+descr:          TELE2 Telecommunication GmbH
+descr:          Internet Service Provider
+descr:          Austria
+
+2
+213.90.1.20
+netname:        NWY
+descr:          TELE2 Telecommunication GmbH
+descr:          Internet Service Provider
+descr:          Austria
+
+
+3
+62.218.15.93
+netname:        PTP-NETS
+descr:          UTA Telekom AG
+descr:          /30 nets for customer connections
+country:        AT
+
+4
+212.152.192.166
+netname:        AT-UTA-19990630
+descr:          Tele2 Telecommunication GmbH
+country:        AT
+
+5
+
+6
+130.244.205.72
+netname:        SE-SWIPNET-19940728
+descr:          Swipnet backbone
+country:        SE
+
+7
+130.244.74.245
+netname:        SE-SWIPNET-19940728
+descr:          Swipnet backbone
+country:        SE
+
+8
+213.248.76.245
+netname:        TELIANET
+descr:          TeliaSonera International Carrier
+descr:          AS1299 Backbone
+country:        EU
+
+9
+62.115.136.242
+netname:        EU-TELIANET-20130924
+org:            ORG-TA45-RIPE
+remarks:        INFRA-AW
+descr:          TeliaSonera AB
+country:        EU
+
+10
+213.155.131.212
+netname:        TELIANET
+descr:          TeliaSonera International Carrier
+descr:          AS1299 Backbone
+country:        EU
+
+11
+80.91.249.114
+netname:        TELIA-TIC-NET-1
+descr:          Telia International Carrier
+descr:          AS1299 Backbone
+country:        EU
+
+12
+213.248.79.190
+netname:        TELIANET
+descr:          TeliaSonera International Carrier
+descr:          AS1299 Backbone
+country:        EU
+
+13
+130.59.36.42
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+14
+130.59.36.249
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+15
+130.59.36.25
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+16
+130.59.36.34
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+17
+192.33.92.1
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+18
+192.33.92.169
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+
+2.  Canada:
+
+
+1
+216.234.161.1
+network:Name;I:Tera-Byte Dot Com Inc.
+network:Address-1;I:Terminal Level, 10004-104 Ave
+network:Address-2;I:Edmonton, AB T5J0K1
+network:Address-3;I:CA
+
+2
+
+
+3
+64.230.119.234
+NetName:        BELLCANADA-5
+Country:        CA
+
+
+4
+64.230.77.105
+NetName:        BELLCANADA-5
+Country:        CA
+
+
+5
+64.230.144.54
+NetName:        BELLCANADA-5
+Country:        CA
+
+6
+64.230.147.38
+NetName:        BELLCANADA-5
+Country:        CA
+
+7
+
+64.230.187.141
+NetName:        BELLCANADA-5
+Country:        CA
+
+8
+64.230.187.162
+NetName:        BELLCANADA-5
+Country:        CA
+
+9
+198.32.160.176
+NetName:        TELEHOUSE-IIX
+Country:        US
+
+10
+138.187.159.18
+netname:        CH-UNISOURCE
+org:            ORG-SI1-RIPE
+descr:          Swisscom (Switzerland) Ltd
+descr:          Berne, Switzerland
+country:        CH
+
+11
+138.187.129.65
+netname:        CH-UNISOURCE
+org:            ORG-SI1-RIPE
+descr:          Swisscom (Switzerland) Ltd
+descr:          Berne, Switzerland
+country:        CH
+
+12
+
+
+
+13
+
+
+14
+130.59.36.94
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+15
+192.33.92.1
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+16
+192.33.92.169
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+
+3. Czech Republic:
+
+1
+78.157.167.1
+netname:        SILESNET
+descr:          Core network of SilesNet
+country:        CZ
+
+2
+78.157.167.206
+netname:        SILESNET
+descr:          Core network of SilesNet
+country:        CZ
+
+
+3
+82.113.38.105
+netname:        SilesNet
+descr:          SilesNet s.r.o.
+country:        CZ
+
+
+4
+82.119.246.237
+netname:        CZ-DIALTELECOM-20040218
+descr:          Dial Telecom, a.s.
+country:        CZ
+
+
+5
+82.119.246.229
+netname:        CZ-DIALTELECOM-20040218
+descr:          Dial Telecom, a.s.
+country:        CZ
+
+
+6
+82.119.245.66
+netname:        CZ-DIALTELECOM-20040218
+descr:          Dial Telecom, a.s.
+country:        CZ
+
+7
+80.249.208.33
+netname:        NL-AMSIX-20120830
+descr:          Amsterdam Internet Exchange B.V.
+country:        NL
+
+8
+130.59.38.81
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+9
+130.59.36.94
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+10
+192.33.92.1
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+11
+192.33.92.169
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+4. Greece
+
+1
+147.102.222.200
+netname:        NTUA
+descr:          National Technical University of Athens
+country:        GR
+
+2
+62.217.96.176
+netname:        GRNET
+descr:          GRNET4 Core
+descr:          Greek Research and Technology Network S.A
+descr:          56 Messogion Av.
+descr:          11527 Athens
+country:        GR
+
+3
+62.217.100.63
+netname:        GRNET
+descr:          GRNET4 Core
+descr:          Greek Research and Technology Network S.A
+descr:          56 Messogion Av.
+descr:          11527 Athens
+country:        GR
+
+4
+62.40.124.89
+netname:        GEANT
+descr:          IP allocation for GEANT network infrastructure
+country:        GB
+
+5
+62.40.112.215
+netname:        GEANT
+descr:          IP allocation for GEANT network infrastructure
+country:        GB
+
+6
+62.40.98.150
+netname:        GEANT
+descr:          IP allocation for GEANT network
+country:        GB
+
+7
+62.40.98.112
+netname:        GEANT
+descr:          IP allocation for GEANT network
+country:        GB
+
+8
+62.40.124.22
+netname:        GEANT
+descr:          IP allocation for GEANT network infrastructure
+country:        GB
+
+9
+130.59.36.94
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+10
+192.33.92.1
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+
+11
+192.33.92.169
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+5. New Zealand:
+
+1
+202.27.217.19
+netname:        KCCS-217
+descr:          Subnetted for customers of
+descr:          KC computer Services
+country:        NZ
+
+2
+202.27.202.193
+netname:        KCCS-27-202
+descr:          KC Computer Services
+descr:          Auckland, NZ
+country:        NZ
+
+3
+202.27.217.38
+netname:        KCCS-217
+descr:          Subnetted for customers of
+descr:          KC computer Services
+country:        NZ
+
+4
+203.97.12.25
+netname:        VODAFONE-AP
+descr:          Vodafone New Zealand
+descr:          Private Bag 92161
+country:        NZ
+
+5
+134.159.174.37
+netname:        TELSTRAGLOBAL-AP
+descr:          Telstra Global Internet Services Network /24 Block
+country:        NZ
+
+6
+134.159.174.41
+netname:        TELSTRAGLOBAL-AP
+descr:          Telstra Global Internet Services Network /24 Block
+country:        NZ
+
+7
+202.84.251.146
+netname:        TELSTRAGLOBAL-AP
+descr:          Telstra Global Internet Services Network Blocks
+country:        HK
+
+8
+202.84.140.229
+netname:        TELSTRAGLOBAL-AP
+descr:          Telstra Global Internet Services Network Blocks
+country:        HK
+
+9
+202.84.251.101
+
+10
+198.32.176.129
+netname:        TELSTRAGLOBAL-AP
+descr:          Telstra Global Internet Services Network Blocks
+country:        HK
+
+11
+138.187.159.72
+
+12
+138.187.159.18
+netname:        CH-UNISOURCE
+org:            ORG-SI1-RIPE
+descr:          Swisscom (Switzerland) Ltd
+descr:          Berne, Switzerland
+country:        CH
+
+13
+138.187.129.65
+netname:        CH-UNISOURCE
+org:            ORG-SI1-RIPE
+descr:          Swisscom (Switzerland) Ltd
+descr:          Berne, Switzerland
+country:        CH
+
+14
+
+15
+130.59.38.81
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+16
+130.59.36.94
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+17.
+192.33.92.1
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+18.
+192.33.92.169
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+6. South Africa:
+
+1
+160.124.109.126
+netname:        POSIX-AFRICA
+descr:          Posix Systems (Pty) Ltd
+descr:          P.O. Box 73892
+descr:          Lynnwood Ridge, 0040
+country:        ZA
+
+2
+160.124.1.2
+netname:        POSIX-AFRICA
+descr:          Posix Systems (Pty) Ltd
+descr:          P.O. Box 73892
+descr:          Lynnwood Ridge, 0040
+country:        ZA
+
+3
+149.6.149.9
+network:Network-Name:NET4-950695081E
+
+4
+154.54.60.149
+network:Network-Name:NET4-9A363C941E
+network:IP-Network:154.54.60.148/30
+network:Postal-Code:20007
+network:Country:US
+
+
+5
+130.117.49.85
+network:Network-Name:NET4-827531541E
+network:IP-Network:130.117.49.84/30
+network:Postal-Code:20007
+network:Country:US
+
+6
+130.117.50.202
+network:Network-Name:NET4-827532C81E
+network:IP-Network:130.117.50.200/30
+network:Postal-Code:20007
+network:Country:US
+
+7
+154.54.39.66
+network:Network-Name:NET4-9A3627401E
+network:IP-Network:154.54.39.64/30
+network:Postal-Code:20007
+network:Country:US
+
+8
+130.117.3.54
+network:Network-Name:NET4-827503341E
+network:IP-Network:130.117.3.52/30
+network:Postal-Code:20007
+network:Country:US
+
+9
+130.117.48.166
+network:Network-Name:NET4-827530A41E
+network:IP-Network:130.117.48.164/30
+network:Postal-Code:20007
+network:Country:US
+
+10
+130.117.2.146
+network:ID:NET4-827502901E
+network:Network-Name:NET4-827502901E
+network:IP-Network:130.117.2.144/30
+network:Postal-Code:20007
+network:Country:US
+
+11
+149.6.34.6
+network:Network-Name:NET4-950622041E
+network:IP-Network:149.6.34.4/30
+network:Postal-Code:CH-8021
+network:Country:CH
+
+12
+130.59.37.105
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+13
+130.59.36.34
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+14
+192.33.92.1
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+15
+192.33.92.169
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+7. Sweeden
+
+1
+195.128.76.225
+netname:        RU-MACOMNET-970312
+descr:          CJSC Macomnet
+country:        RU
+
+2
+195.128.64.72
+netname:        MACOMNET
+descr:          MAcomnet TelCo
+country:        RU
+
+3
+80.64.101.9
+netname:        RASCOM-INET
+descr:          CJSC Rascom
+descr:          Obvodny canal, 93a
+descr:          St.Petersburg, 191119
+country:        RU
+
+4
+80.64.96.67
+netname:        RASCOM-INET
+descr:          CJSC RASCOM
+descr:          Obvodny canal, 93a
+descr:          St.Petersburg, 191126
+country:        RU
+
+5
+80.249.208.33
+netname:        NL-AMSIX-20120830
+descr:          Amsterdam Internet Exchange B.V.
+country:        NL
+
+6
+130.59.38.81
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+7
+130.59.36.94
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+8
+192.33.92.1
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+9
+192.33.92.169
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+8. Ukraine
+
+1
+80.249.224.99
+netname:        TeleportSV
+descr:          Teleport SV own infrastructure and interface pairs
+country:        UA
+
+2
+93.183.237.225
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+3
+80.91.160.129
+netname:        INTERCONNECTIONS-DATAGROUP
+descr:          Subnets /30 for interconnections to DATAGROUP's clients
+country:        UA
+
+4
+80.91.160.158
+netname:        INTERCONNECTIONS-DATAGROUP
+descr:          Subnets /30 for interconnections to DATAGROUP's clients
+country:        UA
+
+5
+80.249.208.33
+netname:        INTERCONNECTIONS-DATAGROUP
+descr:          Subnets /30 for interconnections to DATAGROUP's clients
+country:        UA
+
+6
+130.59.38.81
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+7
+130.59.36.94
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+8
+192.33.92.1
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+9
+192.33.92.169
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+9. United Kingdom
+
+1
+217.14.129.89
+netname:        HOTLINKS
+descr:          Hotlinks Internet Services
+descr:          Telehouse, London
+country:        GB
+
+2
+77.67.64.97
+netname:        NACNET-EU
+descr:          Tiscali International Network B.V.
+descr:          Robert-Bosch-Str. 32
+descr:          D-63303 Dreieich
+country:        DE
+
+3
+4.68.111.25
+NetName:        LVLT-ORG-4-8
+Country:        US
+
+4
+4.69.137.81
+NetName:        LVLT-ORG-4-8
+Country:        US
+
+5
+4.69.137.81
+NetName:        LVLT-ORG-4-8
+Country:        US
+6
+213.242.73.74
+netname:        GENEVA-CUSTOMER-LINKS
+descr:          Geneva Customer Links
+country:        CH
+
+7
+130.59.36.210
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+8
+130.59.38.81
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+9
+130.59.36.94
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+10
+192.33.92.1
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+11
+192.33.92.169
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
+
+10. USA
+
+1
+204.213.176.102
+NETPLEX SPRINT-CCD5BF
+
+2
+204.213.179.129
+NETPLEX SPRINT-CCD5BF
+
+3
+12.248.143.17
+AT&T Services
+
+4
+12.122.156.26
+AT&T Worldnet Services ATTSVI-12-122-0-0
+
+5
+12.122.156.18
+AT&T Worldnet Services ATTSVI-12-122-0-0
+
+6
+12.122.130.109
+AT&T Worldnet Services ATTSVI-12-122-0-0
+
+7
+192.205.34.54
+NetName:        NETBLK-ATT
+Country:        US
+
+8
+62.115.112.114
+netname:        EU-TELIANET-20140617
+descr:          TeliaSonera AB
+org:            ORG-TA45-RIPE
+remarks:        INFRA-AW
+country:        EU
+
+9
+62.115.137.79
+netname:        EU-TELIANET-20130924
+org:            ORG-TA45-RIPE
+remarks:        INFRA-AW
+descr:          TeliaSonera AB
+country:        EU
+
+10
+62.115.135.129
+netname:        EU-TELIANET-20130924
+org:            ORG-TA45-RIPE
+remarks:        INFRA-AW
+descr:          TeliaSonera AB
+country:        EU
+
+11
+213.248.79.190
+netname:        TELIANET
+descr:          TeliaSonera International Carrier
+descr:          AS1299 Backbone
+country:        EU
+
+12
+130.59.36.42
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+13
+130.59.36.249
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+14
+130.59.36.25
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+15
+130.59.36.34
+netname:        SWITCH-LAN
+descr:          SWITCH
+descr:          Zurich, Switzerland
+country:        CH
+
+16
+92.33.92.1
+netname:        SE-CYBER-20071128
+descr:          B2 Bredband AB
+country:        SE
+
+17
+192.33.92.169
+netname:        ETH-NET
+descr:          Swiss Federal Institute of Technology Zurich
+descr:          ETHZ, Swiss Federal Institute of Technology Zurich
+descr:          Zurich, Switzerland
+country:        CH
