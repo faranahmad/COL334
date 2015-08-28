@@ -1,0 +1,697 @@
+GOOGLE:
+
+1. Austria
+
+1.descr:          TELE2 Telecommunication GmbH
+descr:          Internet Service Provider
+descr:           Austria
+
+2.  descr:          TELE2 Telecommunication GmbH
+descr:          Internet Service Provider
+descr:          Austria
+
+3. 
+descr:          UTA Telekom AG
+descr:          /30 nets for customer connections
+country:        AT
+
+4.
+descr:          Tele2 Telecommunication GmbH
+country:        AT
+
+
+5.
+
+6.
+descr:          Swipnet backbone
+country:        SE
+
+7.
+descr:          Swipnet backbone
+country:        SE
+
+8.
+
+9.
+209.85.248.12
+NetName:        GOOGLE
+Country:        US
+
+10.
+72.14.234.231
+NetName:        GOOGLE
+Country:        US
+
+
+11.
+72.14.235.17
+NetName:        GOOGLE
+Country:        US
+
+12.
+74.125.37.38
+NetName:        GOOGLE
+Country:        US
+
+13.
+72.14.233.146
+NetName:        GOOGLE
+Country:        US
+
+14.
+72.14.239.209
+NetName:        GOOGLE
+Country:        US
+
+15.
+209.85.254.34
+NetName:        GOOGLE
+Country:        US
+
+16.
+209.85.249.37
+NetName:        GOOGLE
+Country:        US
+
+17.
+216.239.50.85
+NetName:        GOOGLE
+Country:        US
+
+
+18.
+209.85.249.75
+NetName:        GOOGLE
+Country:        US
+
+
+19.
+
+20.
+173.194.36.80
+NetName:        GOOGLE
+Country:        US
+
+
+2. Canada
+
+1.
+216.234.161.1
+network:Name;I:Tera-Byte Dot Com Inc.
+network:Address-3: California (CA)
+
+2.
+
+3.
+205.233.111.140
+NetName:        AGTAC-POP
+Country:        CA
+
+4.
+75.154.223.209
+Country:        CA
+
+5.
+72.14.210.203
+NetName:        GOOGLE
+Country:        US
+
+6.
+209.85.254.120
+NetName:        GOOGLE
+Country:        US
+
+
+7.
+209.85.243.163
+NetName:        GOOGLE
+Country:        US
+
+8.
+209.85.241.43
+NetName:        GOOGLE
+Country:        US
+
+9.
+72.14.238.38
+NetName:        GOOGLE
+Country:        US
+
+10.
+209.85.246.232
+NetName:        GOOGLE
+Country:        US
+
+11.
+209.85.250.91
+NetName:        GOOGLE
+Country:        US
+
+12.
+209.85.253.39
+NetName:        GOOGLE
+Country:        US
+
+13.
+
+14.
+173.194.36.80
+NetName:        GOOGLE
+Country:        US
+
+3. Czech Republic:
+
+1.
+78.157.167.1
+descr:          Core network of SilesNet
+country:        CZ(Czech Rep.)
+
+2.
+78.157.167.206
+descr:          Core network of SilesNet
+country:        CZ
+
+3.
+82.113.38.105
+descr:          SilesNet s.r.o.
+country:        CZ
+
+4.
+82.119.246.29
+descr:          Dial Telecom, a.s.
+country:        CZ
+
+5.
+72.14.220.118
+NetName:        GOOGLE
+Country:        US
+
+
+6.
+216.239.46.141
+NetName:        GOOGLE
+Country:        US
+
+7.
+209.85.251.178
+NetName:        GOOGLE
+Country:        US
+
+
+8.
+72.14.235.17
+NetName:        GOOGLE
+Country:        US
+
+9.
+209.85.242.148
+NetName:        GOOGLE
+Country:        US
+
+
+10.
+72.14.233.146
+NetName:        GOOGLE
+Country:        US
+
+11.
+72.14.233.111
+NetName:        GOOGLE
+Country:        US
+
+
+12.
+209.85.254.34
+NetName:        GOOGLE
+Country:        US
+
+13.
+209.85.249.37
+NetName:        GOOGLE
+Country:        US
+
+14
+209.85.255.39
+NetName:        GOOGLE
+Country:        US
+
+15
+209.85.249.7
+NetName:        GOOGLE
+Country:        US
+
+16
+
+
+17
+173.194.36.80
+NetName:        GOOGLE
+Country:        US
+
+18
+173.194.36.80
+NetName:        GOOGLE
+Country:        US
+
+4. Greece
+
+1
+147.102.222.200
+descr:          National Technical University of Athens
+country:        GR(Greece)
+
+2
+62.217.96.176
+descr:          GRNET4 Core
+descr:          Greek Research and Technology Network S.A
+country:        GR
+
+
+3
+62.217.100.71
+descr:          GRNET4 Core
+descr:          Greek Research and Technology Network S.A
+country:        GR
+
+4
+62.40.124.89
+descr:          IP allocation for GEANT network infrastructure
+country:        GB
+
+5
+62.40.112.165
+descr:          IP allocation for GEANT network infrastructure
+country:        GB
+
+6.
+62.40.98.48
+netname:        GEANT
+descr:          IP allocation for GEANT network
+country:        GB
+
+
+7
+62.40.125.202
+netname:        GEANT
+descr:          IP allocation for GEANT network infrastructure
+country:        GB
+
+8.
+209.85.241.110
+NetName:        GOOGLE
+Country:        US
+
+9
+209.85.251.246
+NetName:        GOOGLE
+Country:        US
+
+10
+209.85.251.248
+NetName:        GOOGLE
+Country:        US
+
+11
+72.14.235.15
+NetName:        GOOGLE
+Country:        US
+
+12
+216.239.46.215
+NetName:        GOOGLE
+Country:        US
+
+13
+72.14.239.209
+NetName:        GOOGLE
+Country:        US
+
+14
+209.85.248.220
+NetName:        GOOGLE
+Country:        US
+
+15
+209.85.246.176
+NetName:        GOOGLE
+Country:        US
+
+
+5. New Zealand
+
+1
+202.27.217.193
+netname:        KCCS-217
+country:        NZ
+
+2
+202.27.202.193
+netname:        KCCS-217
+country:        NZ
+
+3
+202.27.217.38
+netname:        KCCS-217
+country:        NZ
+
+4
+203.97.12.25
+netname:        VODAFONE-AP
+country:        NZ
+
+5
+203.109.130.41
+netname:        VFNZ-SVC
+country:        NZ
+
+6
+
+7
+203.109.180.182
+netname:        VFNZ-DSL-1
+country:        NZ
+
+8
+209.85.142.122
+NetName:        GOOGLE
+Country:        US
+
+
+After this all are Google
+9
+209.85.142.122
+
+10
+209.85.142.130
+
+11
+72.14.232.47
+
+12
+209.85.255.217
+
+13
+
+
+14
+173.194.36.80
+
+
+6. South Africa
+
+1
+160.124.109.126
+netname:        POSIX-AFRICA
+country:        ZA
+
+2
+196.25.58.113
+netname:        TCS-SAIX
+country:        ZA
+
+
+3
+196.43.11.134
+netname:        IPNET-ER-INFRS
+country:        ZA
+
+
+4
+72.14.212.1
+NetName:        GOOGLE
+Country:        US
+
+After this all are Google
+
+5
+66.249.95.8
+
+
+
+6
+209.85.244.240
+
+7
+209.85.143.224
+
+8
+209.85.143.215
+
+9
+209.85.241.43
+
+10
+209.85.254.34
+
+11
+209.85.249.37
+
+12
+72.14.233.137
+
+13
+209.85.253.39
+
+14
+
+
+15
+173.194.36.80
+
+7.  Sweeden
+
+1
+195.128.76.225
+netname:        RU-MACOMNET-970312
+country:        RU
+
+2
+195.128.64.65
+netname:        MACOMNET
+country:        RU
+
+3
+193.232.244.250
+netname:        IX-NET
+country:        RU
+
+After this all are google
+4
+209.85.251.34
+NetName:        GOOGLE
+Country:        US
+
+5
+209.85.240.102
+
+6
+209.85.241.192
+
+7
+216.239.40.186)
+
+8
+209.85.255.74
+
+9
+(216.239.48.85
+
+10
+209.85.143.224
+
+11
+72.14.232.7
+
+12
+2.14.233.111
+
+13
+209.85.254.18
+
+14
+209.85.246.232
+
+15
+216.239.50.85
+
+16
+209.85.253.39
+
+17
+
+
+18
+173.194.36.80
+
+
+8. Ukraine
+
+1
+80.249.224.99
+netname:        TeleportSV
+country:        UA
+
+2
+93.183.237.225
+netname:        INTERCONNECTIONS-DATAGROUP
+country:        UA
+
+3
+80.91.160.117
+netname:        INTERCONNECTIONS-DATAGROUP
+country:        UA
+
+4
+176.241.104.30
+netname:        INTERCONNECTIONS-DATAGROUP
+descr:          Subnets /30 for interconnections to DATAGROUP's clients
+country:        UA
+
+
+
+5
+209.85.242.220
+NetName:        GOOGLE
+Country:        US
+
+After this, all are google
+
+6
+72.14.234.237
+
+7
+72.14.235.15
+
+8
+74.125.37.36
+
+9
+216.239.46.215
+
+10
+209.85.241.43
+
+11
+209.85.254.18
+
+12
+209.85.246.232
+
+13
+209.85.250.91
+
+14
+209.85.249.75
+
+15
+
+16
+173.194.36.80
+
+9. United Kingdom
+
+1
+217.14.129.89
+netname:        HOTLINKS
+country:        GB
+
+2
+77.67.64.97
+netname:        NACNET-EU
+country:        DE
+
+3
+72.14.221.145
+netname:        NACNET-EU
+country:        DE
+
+4
+209.85.246.242
+NetName:        GOOGLE
+Country:        US
+
+After this, all are google
+
+5
+209.85.244.240
+
+6
+72.14.235.91
+
+7
+72.14.232.71
+
+8
+72.14.233.183
+
+9
+209.85.240.228
+
+10
+209.85.249.37
+
+11
+72.14.235.147
+
+12
+209.85.246.216
+
+13
+
+14
+173.194.36.80
+
+
+Everything in USA
+10. USA
+
+1
+204.213.176.102
+
+2
+204.213.179.129
+
+3
+12.248.143.17
+
+4
+12.122.156.26
+
+5
+12.122.156.18
+
+6
+12.122.105.117
+
+7
+12.249.88.6
+
+8
+216.239.50.139
+
+9
+209.85.249.212
+
+10
+216.239.46.215
+
+11
+72.14.233.183
+
+12
+209.85.250.126
+
+13
+209.85.249.37
+
+14
+209.85.250.91
+
+15
+209.85.253.39
+
+16
+
+
+17
+173.194.36.80
