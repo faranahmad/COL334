@@ -1,0 +1,30 @@
+
+Tracing route to iitd.ac.in
+over a maximum of 30 hops:
+
+1
+192.168.2.1 
+2
+Request timed out.
+3
+59.180.212.2 
+4
+59.180.210.209 
+5
+14.140.113.225
+6
+172.29.252.33 
+7
+14.140.210.22
+8
+Request timed out.
+9
+Request timed out.
+10
+Request timed out.
+11
+103.27.9.20 
+12
+103.27.9.20 
+13
+103.27.9.20 

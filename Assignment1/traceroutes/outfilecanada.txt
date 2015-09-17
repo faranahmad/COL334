@@ -1,0 +1,72 @@
+
+Tracing route to wms.uwaterloo.ca
+
+1  
+192.168.2.1
+NetName:        PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED
+Country:        US
+
+2  
+Request timed out.
+3  
+59.180.212.2
+netname:        MTNLISP
+country:        IN
+
+4  
+59.180.210.194
+netname:        MTNLISP
+country:        IN
+
+5  
+115.254.111.146
+netname:        RCOM-Static-DIA
+country:        IN
+
+6  
+Request timed out.
+7  
+62.216.146.185 
+netname:        FLAG-INFRASTRUCTURE
+country:        GB
+
+8  
+85.95.25.186 
+netname:        UK-FLAG-20050107
+country:        GB
+
+9  
+85.95.25.102 
+netname:        UK-FLAG-20050107
+country:        GB
+
+10  
+206.126.236.3 
+NetName:        EQUINIX-IX-DC
+Country:        US
+
+11  
+199.212.169.202 
+network:Network-Name:NET-ALLSTREAM-6582
+
+12  
+199.212.169.202 
+network:Network-Name:NET-ALLSTREAM-6582
+
+13  
+216.191.167.38 
+network:Network-Name:NET-UNIVERSITY-1
+network:Network-Name:NET-ALLSTREAM-4633
+
+14  
+Request timed out.
+15  
+Request timed out.
+16  
+Request timed out.
+17  
+Request timed out.
+18  
+129.97.208.23 
+NetName:        UWATERLOO-V4
+Country:        CA

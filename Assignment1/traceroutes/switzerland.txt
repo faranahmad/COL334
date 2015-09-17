@@ -1,0 +1,64 @@
+
+Tracing route to tstt-publish.ethz.ch
+over a maximum of 30 hops:
+
+1 
+192.168.2.1 
+2 
+Request timed out.
+3 
+59.180.212.2
+4 
+59.180.210.202 
+5 
+115.254.111.154 
+6 
+Request timed out.
+7 
+80.77.0.121 
+8 
+85.95.26.194 
+9 
+85.95.25.137 
+10 
+62.115.47.105
+11 
+62.115.141.150 
+12 
+80.91.247.240 
+13 
+62.115.135.127 
+14 
+213.248.79.190 
+15 
+130.59.36.42
+16 
+130.59.36.249 
+17 
+130.59.36.25 
+18 
+130.59.36.34 
+19 
+192.33.92.1 
+20 
+192.33.92.169 
+21 
+Request timed out.
+22 
+Request timed out.
+23 
+Request timed out.
+24 
+Request timed out.
+25 
+Request timed out.
+26 
+Request timed out.
+27 
+Request timed out.
+28 
+Request timed out.
+29 
+Request timed out.
+30 
+Request timed out.

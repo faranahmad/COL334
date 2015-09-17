@@ -197,7 +197,7 @@ traceroute to 103.27.9.20 (103.27.9.20), 30 hops max, 60 byte packets
  2  FastEthernet0-0.ncc-8n.MAcomnet.NET (195.128.64.69)  0.314 ms  0.284 ms  0.301 ms 		CJSC Macomnet Russia
  3  rascom-macomnet-gw.as20764.net (80.64.101.9)  0.755 ms  0.758 ms  0.731 ms 				RASCOM-INET Russia
  4  80-64-96-29.rascom.as20764.net (80.64.96.29)  18.678 ms  18.819 ms  19.013 ms 			RASCOM-INET Russia
- 5  xe-9-2-0.bar1.Stockholm1.Level3.net (213.242.110.113)  17.939 ms lag-127-401.ear1.Stockholm2.Level3.net (213.242.110.41)  18.461 ms  18.715 ms 					STOCKHOLM-CAR-CUSTOMERLINKS
+ 5  xe-9-2-0.bar1.Stockholm1.Level3.net (213.242.110.113)  17.939 ms lag-127-401.ear1.Stockholm2.Level3.net (213.242.110.41)  18.461 ms  18.715 ms 					STOCKHOLM-CAR-CUSTOMERLINKS FR
  6  ae-2-70.edge4.Frankfurt1.Level3.net (4.69.154.72)  46.063 ms ae-4-90.edge4.Frankfurt1.Level3.net (4.69.154.200)  55.052 ms ae-3-80.edge4.Frankfurt1.Level3.net (4.69.154.136)  46.077 ms 					LVLT-ORG-4-8 Colombia
  7  ae-4-90.edge4.Frankfurt1.Level3.net (4.69.154.200)  54.954 ms ae-3-80.edge4.Frankfurt1.Level3.net (4.69.154.136)  46.141 ms ae-1-60.edge4.Frankfurt1.Level3.net (4.69.154.8)  46.004 ms 					LVLT-ORG-4-8 Colombia
  8  ix-18-0.tcore1.FR0-Frankfurt.as6453.net (195.219.50.49)  46.101 ms  45.952 ms  46.071 ms 		FRN-FRO-TATAC Germany

@@ -1,0 +1,114 @@
+
+Tracing route to srvslsweb001.uct.ac.za
+
+
+over a maximum of 30 hops:
+
+1
+192.168.2.1 
+NetName:        PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED
+Country:        US
+
+2
+Request timed out.
+3
+59.180.212.2 
+netname:        MTNLISP
+country:        IN
+
+4
+59.180.210.209 
+netname:        MTNLISP
+country:        IN
+
+5
+115.254.111.158 
+netname:        RCOM-Static-DIA
+country:        IN
+
+6
+Request timed out.
+7
+62.216.147.73 
+netname:        FLAG-INFRASTRUCTURE
+country:        GB
+
+8
+85.95.26.238 
+netname:        UK-FLAG-20050107
+country:        GB
+
+9
+46.33.95.165 
+netname:        NACNET-EU
+country:        DE
+
+10
+89.149.185.166 
+netname:        NACNET-EU
+country:        DE
+
+11
+130.117.15.21 
+network:Network-Name:NET4-82750F141E
+network:Country:US
+
+12
+154.54.38.14 
+network:Network-Name:NET4-9A36260C1E
+network:Country:US
+
+13
+149.14.80.210 
+network:Network-Name:NET4-950E50D01E
+network:Country:ZA
+
+14
+196.32.209.170 
+netname:        UBUNTUNET
+country:        ZA
+
+15
+155.232.6.65 
+netname:        UNINET-ZA
+country:        ZA
+
+16
+155.232.6.190 
+netname:        UNINET-ZA
+country:        ZA
+
+17
+155.232.6.233 
+netname:        UNINET-ZA
+country:        ZA
+
+18
+155.232.32.14 
+netname:        UNINET-ZA
+country:        ZA
+
+19
+Request timed out.
+20
+Request timed out.
+21
+Request timed out.
+22
+Request timed out.
+23
+Request timed out.
+24
+Request timed out.
+25
+Request timed out.
+26
+Request timed out.
+27
+Request timed out.
+28
+Request timed out.
+29
+Request timed out.
+30
+Request timed out.

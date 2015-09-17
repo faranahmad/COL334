@@ -1,0 +1,118 @@
+
+Tracing route to tstt-publish.ethz.ch
+over a maximum of 30 hops:
+
+1 
+192.168.2.1 
+NetName:        PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED
+Country:        US
+
+2 
+Request timed out.
+3 
+59.180.212.2
+netname:        MTNLISP
+country:        IN
+
+4 
+59.180.210.202 
+netname:        MTNLISP
+country:        IN
+
+5 
+115.254.111.154 
+netname:        RCOM-Static-DIA
+country:        IN
+
+6 
+Request timed out.
+7 
+80.77.0.121 
+netname:        FLAGTELECOM-WANLINKS
+country:        EG
+
+8 
+85.95.26.194 
+netname:        UK-FLAG-20050107
+country:        GB
+
+9 
+85.95.25.137 
+netname:        UK-FLAG-20050107
+country:        GB
+
+10 
+62.115.47.105
+netname:        EU-TELIANET-20130926
+country:        EU
+
+11 
+62.115.141.150 
+netname:        EU-TELIANET-20130924
+country:        EU
+
+12 
+80.91.247.240 
+netname:        TELIA-TIC-NET-1
+country:        EU
+
+13 
+62.115.135.127 
+netname:        EU-TELIANET-20130924
+country:        EU
+
+14 
+213.248.79.190 
+netname:        TELIANET
+country:        EU
+
+15 
+130.59.36.42
+netname:        SWITCH-LAN
+country:        CH
+
+16 
+130.59.36.249 
+netname:        SWITCH-LAN
+country:        CH
+
+17 
+130.59.36.25 
+netname:        SWITCH-LAN
+country:        CH
+
+18 
+130.59.36.34 
+netname:        SWITCH-LAN
+country:        CH
+
+19 
+192.33.92.1 
+netname:        ETH-NET
+country:        CH
+
+20 
+192.33.92.169 
+netname:        ETH-NET
+country:        CH
+
+21 
+Request timed out.
+22 
+Request timed out.
+23 
+Request timed out.
+24 
+Request timed out.
+25 
+Request timed out.
+26 
+Request timed out.
+27 
+Request timed out.
+28 
+Request timed out.
+29 
+Request timed out.
+30 
+Request timed out.

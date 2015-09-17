@@ -1,0 +1,64 @@
+
+Tracing route to srvslsweb001.uct.ac.za
+over a maximum of 30 hops:
+
+1
+192.168.2.1 
+2
+Request timed out.
+3
+59.180.212.2 
+4
+59.180.210.209 
+5
+115.254.111.158 
+6
+Request timed out.
+7
+62.216.147.73 
+8
+85.95.26.238 
+9
+46.33.95.165 
+10
+89.149.185.166 
+11
+130.117.15.21 
+12
+154.54.38.14 
+13
+149.14.80.210 
+14
+196.32.209.170 
+15
+155.232.6.65 
+16
+155.232.6.190 
+17
+155.232.6.233 
+18
+155.232.32.14 
+19
+Request timed out.
+20
+Request timed out.
+21
+Request timed out.
+22
+Request timed out.
+23
+Request timed out.
+24
+Request timed out.
+25
+Request timed out.
+26
+Request timed out.
+27
+Request timed out.
+28
+Request timed out.
+29
+Request timed out.
+30
+Request timed out.

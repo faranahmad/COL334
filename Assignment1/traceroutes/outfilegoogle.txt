@@ -1,0 +1,50 @@
+
+Tracing route to google.com
+over a maximum of 30 hops:
+
+1
+192.168.2.1 
+NetName:        PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED
+Country:        US
+
+2
+Request timed out.
+3
+59.180.212.2
+netname:        MTNLISP
+country:        IN
+
+4
+59.180.210.194
+netname:        MTNLISP
+country:        IN
+
+5
+115.254.111.158 
+netname:        RCOM-Static-DIA
+country:        IN
+
+6
+72.14.204.158 
+NetName:        GOOGLE
+Country:        US
+
+7
+66.249.95.106 
+NetName:        GOOGLE
+Country:        US
+
+8
+209.85.142.129 
+NetName:        GOOGLE
+Country:        US
+
+9
+216.239.41.149 
+NetName:        GOOGLE
+Country:        US
+
+10
+216.58.196.14 
+NetName:        GOOGLE
+Country:        US

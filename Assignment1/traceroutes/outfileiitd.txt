@@ -1,0 +1,56 @@
+
+Tracing route to iitd.ac.in
+over a maximum of 30 hops:
+
+1
+192.168.2.1 
+NetName:        PRIVATE-ADDRESS-CBLK-RFC1918-IANA-RESERVED
+Country:        US
+
+2
+Request timed out.
+3
+59.180.212.2 
+netname:        MTNLISP
+country:        IN
+
+4
+59.180.210.209 
+netname:        MTNLISP
+country:        IN
+
+5
+14.140.113.225
+netname:        TATACOMM-IN
+country:        IN
+
+6
+172.29.252.33 
+NetName:        PRIVATE-ADDRESS-BBLK-RFC1918-IANA-RESERVED
+Country:        US
+
+7
+14.140.210.22
+netname:        TATACOMM-IN
+country:        IN
+
+8
+Request timed out.
+9
+Request timed out.
+10
+Request timed out.
+11
+103.27.9.20 
+netname:        IIT-DELHI
+country:        IN
+
+12
+103.27.9.20 
+netname:        IIT-DELHI
+country:        IN
+
+13
+103.27.9.20 
+netname:        IIT-DELHI
+country:        IN

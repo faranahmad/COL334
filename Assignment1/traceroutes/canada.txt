@@ -1,0 +1,39 @@
+
+Tracing route to wms.uwaterloo.ca
+
+1  
+192.168.2.1
+2  
+Request timed out.
+3  
+59.180.212.2
+4  
+59.180.210.194
+5  
+115.254.111.146
+6  
+Request timed out.
+7  
+62.216.146.185 
+8  
+85.95.25.186 
+9  
+85.95.25.102 
+10  
+206.126.236.3 
+11  
+199.212.169.202 
+12  
+199.212.169.202 
+13  
+216.191.167.38 
+14  
+Request timed out.
+15  
+Request timed out.
+16  
+Request timed out.
+17  
+Request timed out.
+18  
+129.97.208.23 

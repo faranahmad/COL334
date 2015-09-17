@@ -1,0 +1,36 @@
+
+Tracing route to tstt-publish.ethz.ch [129.132.19.216]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     1 ms  192.168.2.1 
+  2     *        *        *     Request timed out.
+  3    12 ms    11 ms    12 ms  triband-del-59.180.212.2.bol.net.in [59.180.212.2] 
+  4    12 ms    12 ms    11 ms  triband-del-59.180.210.202.bol.net.in [59.180.210.202] 
+  5     *       93 ms    95 ms  115.254.111.154 
+  6     *        *        *     Request timed out.
+  7    93 ms   101 ms    96 ms  xe-2-0-1.0.pjr03.mmb004.flagtel.com [80.77.0.121] 
+  8    98 ms   107 ms    98 ms  xe-2-1-2.0.pjr04.mmb004.flagtel.com [85.95.26.194] 
+  9   232 ms   234 ms   251 ms  xe-0-1-0.0.pjr04.ldn001.flagtel.com [85.95.25.137] 
+ 10   267 ms   161 ms   161 ms  ldn-b7-link.telia.net [62.115.47.105] 
+ 11   164 ms   188 ms   165 ms  ldn-bb2-link.telia.net [62.115.141.150] 
+ 12   171 ms   159 ms   163 ms  prs-bb2-link.telia.net [80.91.247.240] 
+ 13   178 ms   178 ms   177 ms  zch-b2-link.telia.net [62.115.135.127] 
+ 14   280 ms   195 ms   180 ms  dante-ic-308868-zch-b2.c.telia.net [213.248.79.190] 
+ 15   177 ms   194 ms   172 ms  swiIX2-10GE-1-4.switch.ch [130.59.36.42] 
+ 16   191 ms   180 ms   193 ms  swiEZ2-P1.switch.ch [130.59.36.249] 
+ 17   189 ms   178 ms   178 ms  swiEZ1-P2.switch.ch [130.59.36.25] 
+ 18   180 ms   179 ms   198 ms  swiEZ3-B3.switch.ch [130.59.36.34] 
+ 19   176 ms   176 ms   176 ms  rou-gw-rz-tengig-to-switch.ethz.ch [192.33.92.1] 
+ 20   176 ms   176 ms   176 ms  rou-fw-rz-rz-gw.ethz.ch [192.33.92.169] 
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.

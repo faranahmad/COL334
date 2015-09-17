@@ -1,0 +1,19 @@
+
+Tracing route to iitd.ac.in [103.27.9.20]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     1 ms  192.168.2.1 
+  2     *        *        *     Request timed out.
+  3    12 ms    11 ms    30 ms  triband-del-59.180.212.2.bol.net.in [59.180.212.2] 
+  4    11 ms    11 ms    15 ms  triband-del-59.180.210.209.bol.net.in [59.180.210.209] 
+  5    11 ms    12 ms    14 ms  14.140.113.225.static-Delhi-vsnl.net.in [14.140.113.225] 
+  6    11 ms    11 ms    11 ms  172.29.252.33 
+  7    15 ms    12 ms    12 ms  14.140.210.22.static-Delhi-vsnl.net.in [14.140.210.22] 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11    15 ms    32 ms    14 ms  103.27.9.20 
+ 12    14 ms    14 ms    15 ms  103.27.9.20 
+ 13    14 ms    29 ms    14 ms  103.27.9.20 
+
+Trace complete.

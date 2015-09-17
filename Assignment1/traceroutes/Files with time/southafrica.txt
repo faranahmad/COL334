@@ -1,0 +1,36 @@
+
+Tracing route to srvslsweb001.uct.ac.za [137.158.158.44]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     1 ms  192.168.2.1 
+  2     *        *        *     Request timed out.
+  3    12 ms    12 ms    12 ms  triband-del-59.180.212.2.bol.net.in [59.180.212.2] 
+  4    13 ms    11 ms    11 ms  triband-del-59.180.210.209.bol.net.in [59.180.210.209] 
+  5    91 ms    84 ms    84 ms  115.254.111.158 
+  6     *        *        *     Request timed out.
+  7   102 ms   100 ms    96 ms  62.216.147.73 
+  8   233 ms   259 ms   234 ms  xe-0-0-0.0.pjr03.ldn001.flagtel.com [85.95.26.238] 
+  9   164 ms   161 ms   177 ms  ae2-230.lon10.ip4.gtt.net [46.33.95.165] 
+ 10   159 ms   160 ms   158 ms  xe-1-0-1.lon11.ip4.gtt.net [89.149.185.166] 
+ 11   192 ms   165 ms   165 ms  be3008.ccr21.lon01.atlas.cogentco.com [130.117.15.21] 
+ 12   181 ms   163 ms   165 ms  be2417.rcr11.b015533-1.lon01.atlas.cogentco.com [154.54.38.14] 
+ 13   161 ms   166 ms   161 ms  149.14.80.210 
+ 14   308 ms   304 ms   304 ms  ae1-1001-cpt1-ir1-i.tenet.ac.za [196.32.209.170] 
+ 15   308 ms   307 ms   348 ms  be4-cpt1-p1.tenet.ac.za [155.232.6.65] 
+ 16   310 ms   312 ms   318 ms  te0-0-0-1-cpt2-p1-n.tenet.ac.za [155.232.6.190] 
+ 17   309 ms   309 ms   309 ms  te0-12-0-6-cpt2-p1-n.tenet.ac.za [155.232.6.233] 
+ 18   314 ms   318 ms   314 ms  155.232.32.14 
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.

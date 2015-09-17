@@ -1,0 +1,25 @@
+
+Tracing route to facebook.com [173.252.74.22]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     3 ms  192.168.2.1 
+  2     *        *        *     Request timed out.
+  3    27 ms    11 ms    12 ms  triband-del-59.180.212.2.bol.net.in [59.180.212.2] 
+  4    14 ms    12 ms    13 ms  triband-del-59.180.210.209.bol.net.in [59.180.210.209] 
+  5    11 ms    11 ms    11 ms  triband-del-59.180.211.226.bol.net.in [59.180.211.226] 
+  6    92 ms   100 ms    92 ms  115.254.111.150 
+  7     *        *        *     Request timed out.
+  8    92 ms   117 ms    97 ms  xe-2-0-1.0.pjr03.mmb004.flagtel.com [80.77.0.121] 
+  9   120 ms   120 ms   121 ms  xe-2-1-2.0.pjr04.mmb004.flagtel.com [85.95.26.194] 
+ 10    93 ms    99 ms    93 ms  ge-1-3-0.0.pjr02.mmb004.flagtel.com [85.95.26.70] 
+ 11   116 ms   116 ms   119 ms  so-1-3-0.0.pjr02.hkg005.flagtel.com [85.95.25.118] 
+ 12     *        *        *     Request timed out.
+ 13   122 ms   131 ms   122 ms  ae0.bb03.hkg1.tfbnw.net [31.13.28.216] 
+ 14   273 ms   274 ms   283 ms  ae6.bb03.sjc1.tfbnw.net [31.13.24.123] 
+ 15   294 ms   298 ms   295 ms  be27.bb02.prn2.tfbnw.net [31.13.27.180] 
+ 16   291 ms   295 ms   292 ms  ae51.dr04.prn2.tfbnw.net [173.252.64.39] 
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19   296 ms   292 ms   293 ms  edge-star-shv-04-prn2.facebook.com [173.252.74.22] 
+
+Trace complete.
