@@ -103,8 +103,7 @@ a= open('TypesOfFiles.csv','w')
 a.write(strTypeFiles)
 a.close()
 
-print URLandRef
-
+print URLandRef[0:10]
 
 # print (har_parser.browser)
 
