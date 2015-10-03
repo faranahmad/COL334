@@ -2,11 +2,11 @@ import os
 import time
 import csv
 import subprocess   
-webpcap = "nytimes.pcap"
+webpcap = "vox.pcap"
 command = 'tshark -r ' + webpcap +" -E separator=| -T fields -e frame.time_epoch -e ip.src -e tcp.srcport -e ip.dst -e tcp.dstport -e http.host -e http.request.uri -e http.referer -e frame.time -e tcp.flags.fin -e tcp.flags.reset -e tcp.flags.syn -e tcp.stream" 
 
 splittedstring = command.split(' ')
-print " ".join(splittedstring)
+# print " ".join(splittedstring)
 
 l1 = subprocess.Popen(splittedstring,stdout=subprocess.PIPE).communicate()[0]
 
@@ -23,24 +23,32 @@ line = 0
 for elem in l2:
 	# line+=1
 	l3 = elem.split("|")
-	print l3
+	# print l3
 	if not(l3[5] == ''):
 		# print line
-		# print l3[13] + "\n"
-		if not(l3[13] == ''):
-			print l3
+		# print str(len(l3)) + str("  length of 13th array")
+		if not(l3[12] == ''):
+			# print l3
 			# print int(l3[13])
-			if int(l3[13]) in mapping:
-				tree.append((mapping[int(l3[13])],l3[5],l3[5] + l3[6]))
+			if int(l3[12]) in mapping:
+				tree.append((mapping[int(l3[12])],l3[5],l3[5] + l3[6]))
 			else:
-				mapping[int(l3[13])] = connectionid
+				mapping[int(l3[12])] = connectionid
 				tree.append((connectionid,l3[5],l3[5] + l3[6]))		
 				connectionid += 1
 
 tree.sort(key=lambda x:x[0])
 
-print "tree starting\n"
-print tree
+# print "tree starting\n"
+strans = ""
+for elem in tree:
+	strans +=  str(elem[0]) + "|" + str(elem[1]) + "|" + str(elem[2]) +"\n"
+
+fieout = webpcap + "_downloadtree.txt"
+foen = open(fieout,'w')
+foen.write(strans)
+foen.close()
+
 # text_file = open("Output5.txt", "w")
 
 # # print l1[:200]
