@@ -1,17 +1,18 @@
 import os
 import time
 import csv
-import subprocess
-webpcap = "vox.pcap"
-command = 'tshark -r ' + webpcap +' -E separator=, -T fields -e frame.time_epoch -e ip.src -e tcp.srcport -e ip.dst -e tcp.dstport -e http.host -e http.request.uri -e http.referer -e frame.time -e tcp.flags.fin -e tcp.flags.reset -e tcp.flags.syn -e tcp.stream' 
+import subprocess   
+webpcap = "nytimes.pcap"
+command = 'tshark -r ' + webpcap +" -E separator=| -T fields -e frame.time_epoch -e ip.src -e tcp.srcport -e ip.dst -e tcp.dstport -e http.host -e http.request.uri -e http.referer -e frame.time -e tcp.flags.fin -e tcp.flags.reset -e tcp.flags.syn -e tcp.stream" 
 
 splittedstring = command.split(' ')
+print " ".join(splittedstring)
 
 l1 = subprocess.Popen(splittedstring,stdout=subprocess.PIPE).communicate()[0]
 
 l2 = l1.split('\n')[:-1]
 
-print len(l2)
+
 # print l1
 
 connectionid = 0
@@ -21,11 +22,14 @@ line = 0
 
 for elem in l2:
 	# line+=1
-	l3 = elem.split(',')
+	l3 = elem.split("|")
+	print l3
 	if not(l3[5] == ''):
 		# print line
 		# print l3[13] + "\n"
 		if not(l3[13] == ''):
+			print l3
+			# print int(l3[13])
 			if int(l3[13]) in mapping:
 				tree.append((mapping[int(l3[13])],l3[5],l3[5] + l3[6]))
 			else:
