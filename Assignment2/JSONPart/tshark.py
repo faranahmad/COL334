@@ -115,7 +115,7 @@ foen.close()
 ########################## ending times ##################################################################
 
 command3 = 'tshark -r vox.pcap -E separator=| -T fields -R '.split() +  ["tcp.flags.fin==1"] +  ' -e tcp.stream -e frame.time_epoch'.split()
-print " ".join(command3)
+# print " ".join(command3)
 l22 = subprocess.Popen(command3,stdout=subprocess.PIPE).communicate()[0]
 l23 = l22.split('\n')[:-1]
 

@@ -1,5 +1,73 @@
+import os
+import time
+import csv
+import subprocess
+import copy
 import json
 from haralyzer import HarParser, HarPage
+
+webpcap = "vox.pcap"
+command = 'tshark -r ' + webpcap +" -E separator=| -T fields -e frame.time_epoch -e ip.src -e tcp.srcport -e ip.dst -e tcp.dstport -e http.host -e http.request.uri -e http.referer -e frame.time -e tcp.flags.fin -e tcp.flags.reset -e tcp.flags.syn -e tcp.stream -e http.response.code" 
+
+splittedstring = command.split(' ')
+
+l1 = subprocess.Popen(splittedstring,stdout=subprocess.PIPE).communicate()[0]
+
+l2 = l1.split('\n')[:-1]
+
+fieout1 = webpcap + "_tsharkresp.txt"
+foen1 = open(fieout1,'w')
+foen1.write(l1)
+foen1.close()
+
+connectionid = 0
+mapping = {}
+tree = []
+line = 0
+
+tcp_url = [] ################## for tcp stream and url mapping ###################
+
+for elem in l2:
+	# line+=1
+	l3 = elem.split("|")
+	# print l3
+	if not(l3[5] == ''):
+		# print line
+		# print str(len(l3)) + str("  length of 13th array")
+		if not(l3[12] == ''):
+			# print l3
+			# print int(l3[13])
+			if int(l3[12]) in mapping:
+				tree.append((mapping[int(l3[12])],l3[5],l3[5] + l3[6]))
+				tcp_url.append([mapping[int(l3[12])],int(l3[12]),l3[5],l3[5]+l3[6],float(l3[0])])
+			else:
+				mapping[int(l3[12])] = connectionid
+				tree.append((connectionid,l3[5],l3[5] + l3[6]))
+				tcp_url.append([mapping[int(l3[12])],int(l3[12]),l3[5],l3[5]+l3[6],float(l3[0])])		
+				connectionid += 1
+
+tcp_url.sort(key=lambda x:x[0])
+tree.sort(key=lambda x:x[0])
+print tcp_url[0:5]
+print tree[0:5]
+
+print "len tcp", len(tcp_url), len(tree)
+
+
+command3 = 'tshark -r vox.pcap -E separator=| -T fields -R '.split() +  ["tcp.flags.fin==1"] +  ' -e tcp.stream -e frame.time_epoch'.split()
+# print " ".join(command3)
+l22 = subprocess.Popen(command3,stdout=subprocess.PIPE).communicate()[0]
+l23 = l22.split('\n')[:-1]
+
+
+ending_times = []
+for elem in l23:
+	l31 = elem.split("|")
+	ending_times.append(l31)
+
+# print ending_times
+# print len(ending_times)
+
 
 with open('www.vox.com.har','r') as f:
 # with open('google.har','r') as f:
@@ -45,11 +113,11 @@ with open('www.vox.com.har','r') as f:
 DownloadTreeRead=map(lambda x: x.split('|'), open('vox.pcap_downloadtree.txt','r').read().split('\n')[:-1])
 DownloadTreeRead = map(lambda x: [int(x[0])] + x[1:], DownloadTreeRead)
 # print len(DownloadTreeRead)
-print DownloadTreeRead
+# print DownloadTreeRead
 
 ForEachConnection=[0]*(1+ DownloadTreeRead[-1][0])
 for i in xrange(len(ForEachConnection)):
-	ForEachConnection[i]=[i,[0 for j in xrange(6)],""]
+	ForEachConnection[i]=[i,[0 for j in xrange(6)],"",999999999999,0,0,[]]
 
 for elem in DownloadTreeRead:
 	ForEachConnection[elem[0]][2]+=elem[2]+"|"
@@ -72,7 +140,7 @@ def RemoveHttp(s):
 	# print s
 	return s
 
-print ForEachConnection
+# print ForEachConnection
 
 count1 = 0
 for elem in harpage.entries:
@@ -91,67 +159,65 @@ for elem in harpage.entries:
 		ForEachConnection[connid][1][3]+=int(elem['timings']['send'])
 		ForEachConnection[connid][1][4]+=int(elem['timings']['wait'])
 		ForEachConnection[connid][1][5]+=int(elem['timings']['receive'])
-		# print int(elem['timings']['blocked'])
-		# print int(elem['timings']['dns'])
-		# print int(elem['timings']['connect'])
-		# print int(elem['timings']['send'])
-		# print int(elem['timings']['wait'])
-		# print int(elem['timings']['receive'])
+		ForEachConnection[connid][5]+=int(elem['response']['content']['size'])
+		ForEachConnection[connid][6].append([int(elem['response']['content']['size']),int(elem['timings']['receive'])])
 
-print ForEachConnection
+tcpidconnid={}
 
-	# print presentURL, elem[' ']
+for elem in tcp_url:
+	connid = elem[0]
+	tcpidconnid[elem[1]]=connid
+	ForEachConnection[connid][3]=min(ForEachConnection[connid][3],elem[4])
 
-	# for elem1 in elem['timings']['headers']:
-	# 	if elem1['name']=="Host":
-	# 		presentname = elem1['value']
-	# 		if (presentname) in DifferentDomains:
-	# 			DifferentDomains[presentname]+=1
-	# 		else:
-	# 			DifferentDomains[presentname] = 1 
-	# 		# print "Host is", elem1['value']
-	# 	elif elem1['name']== "Referer":
-	# 		# print "Referer is", elem1['value']
-	# 		# URLandRef[presentURL]= elem1['value']
-	# 		URLandRef = InsertNewUrl(URLandRef, presentURL, elem1['value'])
-	# 	# elif elem1['name']=="Connection":
-	# 		# print "Type of connection is", elem1['value']
+print tcpidconnid
 
-# print DifferentDomains
-# print SizeFromDomains
-# print TypesOfFiles
+ending_times = map(lambda x: [int(x[0]),float(x[1])], ending_times)
 
-print count1
+for elem in ending_times:
+	if elem[0] in tcpidconnid:
+		connid = tcpidconnid[elem[0]]
+		ForEachConnection[connid][4]=max(ForEachConnection[connid][4],elem[1])
+	else:
+		"No idea about starting time of ", elem 
 
-def GenerateStringFromHashTable(hs):
-	ans=""
-	for elem in hs.keys():
-		ans+= elem + ","+ str(hs[elem]) + "\n"
-	return ans
+# print ForEachConnection
 
-# strDomNames = GenerateStringFromHashTable(DifferentDomains)
-# strSizDomains = GenerateStringFromHashTable(SizeFromDomains)
-# strTypeFiles = GenerateStringFromHashTable(TypesOfFiles)
+ProcessedTimes=[]
 
-# a= open('DomainNames.csv','w')
-# a.write(strDomNames)
-# a.close()
+for elem in ForEachConnection:
+	ans=[0]*10
+	# print elem
+	# Connid, valid, times, websites, totaltime, active percentage, idle percentage, data recv, avg goodput, max goodput
+	ans[0]=elem[0]
+	ans[1]=sum(elem[1])>0
+	ans[2]=elem[1]
+	ans[3]=elem[2]
+	ans[4]=elem[4]-elem[3]
+	ans[5]=(elem[1][3]+elem[1][4]+elem[1][5])/(1000*ans[4])
+	ans[6]=1-ans[5]
+	ans[7]=elem[5]
+	if (elem[1][5]>0):
+		ans[8]=(1.0*ans[7])/(elem[1][5])
+	elem[6].sort(key= lambda x: x[0])
+	if len(elem[6]):
+		ans[9]=elem[6][-1]
+		if ans[9][1]>0:
+			ans[9]=(1.0*ans[9][0])/ans[9][1]
+		else:
+			ans[9]=0
+	print ans
+	ProcessedTimes.append(ans)
 
-# a= open('SizeDomainNames.csv','w')
-# a.write(strSizDomains)
-# a.close()
+AverageGoodput = 0
+totalt = 0
+MaxMax = 0
+for elem in ProcessedTimes:
+	AverageGoodput += elem[7]
+	totalt += elem[2][5]
+	MaxMax = max(MaxMax,elem[9])
 
-# a= open('TypesOfFiles.csv','w')
-# a.write(strTypeFiles)
-# a.close()
+AverageGoodput*=1.0
+AverageGoodput/=totalt
+print "Average Goodput ", AverageGoodput, "Max goodput ", MaxMax
 
-# print URLandRef[0:10]
-
-# print (har_parser.browser)
-
-# print har_parser.']
-# print har_parser.creator
-# print har_parser.ima
-# print harpage.image_size
-# print harpage.image_load_time
-
+# print ending_times[0:10]
