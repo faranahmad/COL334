@@ -83,6 +83,7 @@ for alpha in har_parser.pages:
 DifferentDomains={}
 SizeFromDomains={}
 TypesOfFiles={}
+DomainDNSTimes={}
 
 def InsertNewUrl(inputarr,url,parenturl):
 	ans = [len(inputarr),url,0,parenturl]
@@ -117,7 +118,7 @@ DownloadTreeRead = map(lambda x: [int(x[0])] + x[1:], DownloadTreeRead)
 
 ForEachConnection=[0]*(1+ DownloadTreeRead[-1][0])
 for i in xrange(len(ForEachConnection)):
-	ForEachConnection[i]=[i,[0 for j in xrange(6)],"",999999999999,0,0,[]]
+	ForEachConnection[i]=[i,[0 for j in xrange(6)],"",999999999999,0,0,[],"0"]
 
 for elem in DownloadTreeRead:
 	ForEachConnection[elem[0]][2]+=elem[2]+"|"
@@ -142,10 +143,30 @@ def RemoveHttp(s):
 
 # print ForEachConnection
 
+def ParseTime(s):
+	# print s
+	x1 = s.index('T')
+	x2 = s.index('+')
+	req = s[x1+1:x2]
+	return map(float,req.split(':'))
+
+inittime,fintime=0,0
+
 count1 = 0
 for elem in harpage.entries:
 	# print elem['request']['url']
+	if(count1==0):
+		inittime = elem['startedDateTime']
+	fintime=elem['startedDateTime']
 	presentname=""
+	domname=""
+	for beta in  elem['request']['headers']:
+		if beta['name']=="Host":
+			domname = beta['value']	
+	if domname in DomainDNSTimes:
+		DomainDNSTimes[domname]=DomainDNSTimes[domname]+[elem['timings']['dns']]
+	else:
+		DomainDNSTimes[domname]=[elem['timings']['dns']]
 	presentURL = RemoveHttp(elem['request']['url'])
 	count1 +=1
 	connid = FindConnId(presentURL)
@@ -161,6 +182,7 @@ for elem in harpage.entries:
 		ForEachConnection[connid][1][5]+=int(elem['timings']['receive'])
 		ForEachConnection[connid][5]+=int(elem['response']['content']['size'])
 		ForEachConnection[connid][6].append([int(elem['response']['content']['size']),int(elem['timings']['receive'])])
+		ForEachConnection[connid][7]=domname
 
 tcpidconnid={}
 
@@ -183,11 +205,13 @@ for elem in ending_times:
 # print ForEachConnection
 
 ProcessedTimes=[]
+TimingGraph = []
+DomainTimings =[]
 
 for elem in ForEachConnection:
-	ans=[0]*10
+	ans=[0]*11
 	# print elem
-	# Connid, valid, times, websites, totaltime, active percentage, idle percentage, data recv, avg goodput, max goodput
+	# Connid, valid, times, websites, totaltime, active percentage, idle percentage, data recv, avg goodput, max goodput, domain
 	ans[0]=elem[0]
 	ans[1]=sum(elem[1])>0
 	ans[2]=elem[1]
@@ -205,8 +229,10 @@ for elem in ForEachConnection:
 			ans[9]=(1.0*ans[9][0])/ans[9][1]
 		else:
 			ans[9]=0
+	ans[10]=elem[7]
 	print ans
 	ProcessedTimes.append(ans)
+	TimingGraph.append([elem[0],elem[2],elem[3],elem[4],0,elem[7]])
 
 AverageGoodput = 0
 totalt = 0
@@ -219,5 +245,49 @@ for elem in ProcessedTimes:
 AverageGoodput*=1.0
 AverageGoodput/=totalt
 print "Average Goodput ", AverageGoodput, "Max goodput ", MaxMax
+t1 = ParseTime(inittime)
+t2 = ParseTime(fintime)
+t3 = [t2[0]-t1[0],t2[1]-t1[1],t2[2]-t1[1]]
+print "Total time is: ", t3[0], " hours, ", t3[1] ," minutes, ", t3[2] , " seconds."
+
+# print TimingGraph
+TimingGraph.sort(key=lambda x: x[2])
+
+def FindNumInRange(t,totalarr):
+	ans=0
+	for elem in totalarr:
+		if (t>=elem[2]) and (t <=elem[3]):
+			ans +=1
+	return ans
+
+def FindNumInDomainRange(t,dom,totalarr):
+	ans=0
+	for elem in totalarr:
+		if (t>=elem[2]) and (t <=elem[3]) and (dom == elem[5]):
+			ans +=1
+	return ans
+
+def FindMaxPerDomain(arr):
+	sofar=0
+	for elem in arr[1:]:
+		sofar= max(sofar,elem[1])
+	return sofar
+
+for elem in DomainDNSTimes:
+	temp=[elem]
+	for elem2 in TimingGraph:
+		k=FindNumInDomainRange(elem2[2],elem,TimingGraph)
+		temp.append([elem2[2],k])
+	temp.append(FindMaxPerDomain(temp))
+	DomainTimings.append(temp)
+	print elem, DomainDNSTimes[elem]
+
+
+for i in xrange(len(TimingGraph)):
+	TimingGraph[i][4]= FindNumInRange(TimingGraph[i][2],TimingGraph)
+
+print TimingGraph
+for elem in DomainTimings:
+	print elem
 
 # print ending_times[0:10]
