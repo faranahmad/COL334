@@ -2,9 +2,9 @@ import json
 from haralyzer import HarParser, HarPage
 
  
-with open('www.vox.com.har','r') as f:
+# with open('www.vox.com.har','r') as f:
 # with open('google.har','r') as f:
-# with open('www.nytimes.com.har','r') as f:
+with open('www.nytimes.com.har','r') as f:
 	har_parser = HarParser(json.loads(f.read()))
 
 pageid = None
@@ -36,9 +36,9 @@ def InsertNewUrl(inputarr,url,parenturl):
 
 URLandRef = [[0,"",0,""]]
 
-with open('www.vox.com.har','r') as f:
+# with open('www.vox.com.har','r') as f:
 # with open('google.har','r') as f:
-# with open('www.nytimes.com.har','r') as f:
+with open('www.nytimes.com.har','r') as f:
 	# har_parser = HarParser(json.loads(f.read()))
 	harpage = HarPage(pageid,har_data=json.loads(f.read()))
 
@@ -103,7 +103,23 @@ a= open('TypesOfFiles.csv','w')
 a.write(strTypeFiles)
 a.close()
 
-print URLandRef[0:10]
+# print URLandRef[0:10]
+
+def MakeDotFile(URL):
+	allstr=["digraph {"]
+	for elem in URLandRef:
+		if elem[0]==0:
+			allstr.append(str(elem[0]) + " [ label= null ];")
+		else:
+			allstr.append(str(elem[0]) + ' [ label= "' +elem[1] +'" ];')
+			allstr.append(str(elem[0])+"->"+str(elem[2])+";")
+	allstr += ["}"]
+	ans="\n".join(allstr)
+	return ans
+
+a=open('DownloadTree.dot','w')
+a.write(MakeDotFile(URLandRef))
+a.close()
 
 # print (har_parser.browser)
 
