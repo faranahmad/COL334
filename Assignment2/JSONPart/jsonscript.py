@@ -3,7 +3,6 @@ from haralyzer import HarParser, HarPage
 
  
 # with open('www.vox.com.har','r') as f:
-# with open('google.har','r') as f:
 with open('www.nytimes.com.har','r') as f:
 	har_parser = HarParser(json.loads(f.read()))
 
@@ -37,7 +36,6 @@ def InsertNewUrl(inputarr,url,parenturl):
 URLandRef = [[0,"",0,""]]
 
 # with open('www.vox.com.har','r') as f:
-# with open('google.har','r') as f:
 with open('www.nytimes.com.har','r') as f:
 	# har_parser = HarParser(json.loads(f.read()))
 	harpage = HarPage(pageid,har_data=json.loads(f.read()))
@@ -91,6 +89,19 @@ strDomNames = GenerateStringFromHashTable(DifferentDomains)
 strSizDomains = GenerateStringFromHashTable(SizeFromDomains)
 strTypeFiles = GenerateStringFromHashTable(TypesOfFiles)
 
+TotalNumberObj = 0
+TotalSizeObj = 0
+
+for elem in DifferentDomains:
+	TotalNumberObj += DifferentDomains[elem]
+
+for elem in SizeFromDomains:
+	TotalSizeObj += SizeFromDomains[elem]
+
+print "Total number of objects downloaded: ", TotalNumberObj
+print "Total size of objects downloaded: ", TotalSizeObj
+
+
 a= open('DomainNames.csv','w')
 a.write(strDomNames)
 a.close()
@@ -117,9 +128,9 @@ def MakeDotFile(URL):
 	ans="\n".join(allstr)
 	return ans
 
-a=open('DownloadTree.dot','w')
-a.write(MakeDotFile(URLandRef))
-a.close()
+# a=open('DownloadTree.dot','w')
+# a.write(MakeDotFile(URLandRef))
+# a.close()
 
 # print (har_parser.browser)
 
